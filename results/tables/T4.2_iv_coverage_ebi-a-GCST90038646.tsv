@@ -1,0 +1,6 @@
+gene_symbol	ensembl_id	exposure_id	exposure_trait	outcome_id	n_tophits	n_after_f	n_after_cap	n_after_clump	n_after_outcome_join	n_after_harmonise	nsnp_used	status
+HRV_RMSSD	NA	ebi-a-GCST004733	Heart rate variability traits (RMSSD)	ebi-a-GCST90038646	204	204	200	6	6	6	6	mr_multi_snp_possible
+TNFR1	NA	ebi-a-GCST90012015	Tumor necrosis factor receptor 1 levels	ebi-a-GCST90038646	144	144	144	4	4	4	4	mr_multi_snp_possible
+IL6	NA	ebi-a-GCST90012005	Interleukin-6 levels	ebi-a-GCST90038646	212	212	200	2	2	2	2	mr_two_snp_limited
+CORTISOL	NA	ieu-a-1012	Plasma cortisol	ebi-a-GCST90038646	19	19	19	1	1	1	1	mr_single_snp_only
+CRP	NA	ebi-a-GCST90029070	C-reactive protein levels	ebi-a-GCST90038646	47339	47339	200	1	1	1	1	mr_single_snp_only

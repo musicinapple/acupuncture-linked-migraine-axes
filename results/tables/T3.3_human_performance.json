@@ -1,0 +1,20 @@
+{
+  "run_at_utc": "2026-01-12T04:00:20Z",
+  "model": "lasso_logistic_regression",
+  "best_lasso_C": 100.0,
+  "holdout_auc": 0.53125,
+  "train_subject_counts": {
+    "n_subjects": 42,
+    "n_case_subjects": 18,
+    "n_control_subjects": 24
+  },
+  "test_subject_counts": {
+    "n_subjects": 10,
+    "n_case_subjects": 4,
+    "n_control_subjects": 6
+  },
+  "notes": [
+    "Subject-aware split prevents leakage across repeated measures.",
+    "Gene prefiltering is computed on TRAIN subjects only unless --prefilter ranked_file is used."
+  ]
+}

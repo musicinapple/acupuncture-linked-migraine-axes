@@ -1,0 +1,52 @@
+{
+  "created_at_utc": "2025-12-24T13:52:34Z",
+  "script": "scripts/04_mr_causality/01_two_sample_mr_opengwas.R",
+  "inputs": {
+    "genes": "results/tables/T3.3_human_intersection_genes.csv",
+    "outcome_id": "finn-b-G6_MIGRAINE",
+    "outcome_trait_trial": null,
+    "outcome_trait_gwasinfo": "Migraine",
+    "outcome_trait_verified": "Migraine",
+    "outcome_trait_source": "gwasinfo"
+  },
+  "exposure": {
+    "eqtl_mode": "eqtl_catalogue",
+    "eqtl_catalogue": {
+      "dataset_id": "QTD000141",
+      "metadata_path": "data/raw/eqtl_catalogue/dataset_metadata.tsv",
+      "api_base": "https://www.ebi.ac.uk/eqtl/api/v2",
+      "page_size": 1000,
+      "max_pages": 20,
+      "sleep_s": 0.25
+    }
+  },
+  "opengwas": {
+    "base": "https://api.opengwas.io/api",
+    "token_fingerprint": "eyJh...8d1Q (len=550)",
+    "eqtl_source_pattern": "eQTLGen",
+    "eqtl_mapping": {},
+    "symbol_to_ensembl": "data/processed/human_id_to_symbol.tsv",
+    "eqtl_id_prefix": "eqtl-a-"
+  },
+  "parameters": {
+    "pval_threshold": 1e-05,
+    "clump_r2": 0.001,
+    "clump_kb": 10000,
+    "clump_pop": "EUR",
+    "max_instruments_per_gene": 200,
+    "proxies": 1,
+    "proxy_r2": 0.8,
+    "maf_ambiguous": 0.42,
+    "f_stat_min": 10,
+    "scatter_top_n": 9,
+    "seed": 42
+  },
+  "outputs": {
+    "mapping": "results/tables/T4.1_eqtl_mapping_used_eqtlcat_QTD000141.tsv",
+    "iv_coverage": "results/tables/T4.1_iv_coverage_eqtlcat_QTD000141_finn-b-G6_MIGRAINE.tsv",
+    "snps": "results/tables/T4.1_mr_harmonised_snps_eqtlcat_QTD000141_finn-b-G6_MIGRAINE.tsv",
+    "results": "results/tables/T4.1_mr_gene_level_results_eqtlcat_QTD000141_finn-b-G6_MIGRAINE.csv",
+    "forest": "figures/raw_plots/Fig5A_MR_forest_eqtlcat_QTD000141_finn-b-G6_MIGRAINE.pdf",
+    "scatter": "figures/raw_plots/Fig5B_MR_scatter_eqtlcat_QTD000141_finn-b-G6_MIGRAINE.pdf"
+  }
+}

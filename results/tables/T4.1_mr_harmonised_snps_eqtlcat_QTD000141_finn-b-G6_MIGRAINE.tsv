@@ -1,0 +1,4 @@
+gene_symbol	exposure_id	exposure_trait	rsid	bx	sebx	by	seby	effect_allele_exposure	other_allele_exposure	effect_allele_outcome_aligned	other_allele_outcome_aligned	eaf_exposure	eaf_outcome	f_stat	pval_exposure	pval_outcome
+LAMP5	eqtlcat-QTD000141-ENSG00000125869	eQTL Catalogue GTEx QTD000141 (artery (tibial)) N=584	rs6086924	0.374235	0.0752995	-0.0057	0.0216	A	G	A	G	0.15411	0.178	24.70043600042604	8.87391e-7	0.792
+SLC67A1	eqtlcat-QTD000141-ENSG00000110628	eQTL Catalogue GTEx QTD000141 (artery (tibial)) N=584	rs1182338	-0.784433	0.0692166	-0.001	0.0216	G	C	C	G	0.145548	0.8201	128.437305601055	5.50189e-27	0.9635
+TMEM176B	eqtlcat-QTD000141-ENSG00000106565	eQTL Catalogue GTEx QTD000141 (artery (tibial)) N=584	rs1108578	0.268335	0.044345999999999997	2e-4	0.0216	T	G	T	G	0.188356	0.1763	36.61387891155639	2.61261e-9	0.9944

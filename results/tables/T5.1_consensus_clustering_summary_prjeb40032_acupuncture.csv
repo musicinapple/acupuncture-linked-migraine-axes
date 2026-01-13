@@ -1,0 +1,6 @@
+k,auc,delta_auc,selected_k,n_samples,n_genes,gene_list_path,expr_matrix_path,metadata_path,seed,reps,p_item,p_feature
+2,0.453126436781609,NA,FALSE,30,210,results/tables/T2.9_acupuncture_target_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,500,0.8,1
+3,0.620022988505747,0.16689655172413798,TRUE,30,210,results/tables/T2.9_acupuncture_target_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,500,0.8,1
+4,0.7192413793103447,0.09921839080459771,FALSE,30,210,results/tables/T2.9_acupuncture_target_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,500,0.8,1
+5,0.7778620689655172,0.05862068965517253,FALSE,30,210,results/tables/T2.9_acupuncture_target_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,500,0.8,1
+6,0.8043908045977014,0.026528735632184164,FALSE,30,210,results/tables/T2.9_acupuncture_target_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,500,0.8,1

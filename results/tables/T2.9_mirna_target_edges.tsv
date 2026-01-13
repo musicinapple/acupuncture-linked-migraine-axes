@@ -1,0 +1,232 @@
+mirna	target_gene	n_records	pmids	support_types	experiments	target_in_universe	target_in_disease_set	target_logFC	target_pvalue	target_fdr
+hsa-let-7c-5p	HMGA2	8	17243163.0 // 17600087.0 // 18403645.0 // 21224353.0	Functional MTI	Immunocytochemistry//Immunofluorescence//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay // Luciferase reporter assay//qRT-PCR//Western blot // Microarray//Northern blot//qRT-PCR//Western blot // qRT-PCR//Western blot	True	False	-0.1725113143817839	0.0039655743087913	0.0704332664513286
+hsa-let-7c-5p	MYC	7	17877811.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Western blot	True	False	-0.4817253622469599	0.0044416866705369	0.0732681976421973
+hsa-let-7c-5p	IL6	6	23977098.0 // 31915680.0 // 34967707.0	Functional MTI	Luciferase reporter assay // Luciferase reporter assay//qRT-PCR//ELISA // Western blotting//Microarray//ELISA	True	False	1.0063562622027142	0.0095497553590027	0.1043760801378538
+hsa-let-7c-5p	BCL2L1	3	20347499.0 // 22917031.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1029851178940074	0.5026610386021304	0.9382498161576838
+hsa-let-7c-5p	TRIM71	3	17890240.0	Functional MTI // Functional MTI (Weak)	Luciferase reporter assay // Reporter assay;Other	True	False	-0.0335668177104858	0.0976390526317478	0.4192323022492766
+hsa-let-7c-5p	HSPA4	2	26923191.0	Functional MTI	Luciferase reporter assay	True	False	-0.0673357469649416	0.3754113721786619	0.8606508367839779
+hsa-let-7c-5p	IL10	2	22835429.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	0.1108656238729982	0.3411741789470749	0.8122904993180728
+hsa-let-7c-5p	MAP4K3	2	28099144.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.4020212132130701	0.0148263674807011	0.1325654213339069
+hsa-let-7c-5p	MTOR	2	25311506.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.5218349755528651	0.004112847127791	0.0716628206774605
+hsa-let-7c-5p	PBX2	2	22964640.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.5644608627944478	0.0018676019631177	0.0528507323919409
+hsa-let-7c-5p	RICTOR	2	25311506.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.4670318528406217	0.0176605012602352	0.1467684682677888
+hsa-let-7c-5p	TNFRSF10B	2	24120475.0	Functional MTI	qRT-PCR//Western blot	True	False	-0.2320460381793987	0.1696727716335789	0.5854642133342347
+hsa-let-7c-5p	TRIB2	2	23850892.0	Functional MTI	Flow//GFP reporter assay//qRT-PCR//Western blot	True	False	-0.4776915432994408	0.009324334370402	0.1032041563179861
+hsa-let-7c-5p	AGO1	1	23426184.0	Functional MTI	Immunohistochemistry//Immunoprecipitaion//Luciferase reporter assay//Northern blot//qRT-PCR//Western blot	True	True	-0.8170685315639402	0.0005432627286138333	0.0366887068818403
+hsa-let-7c-5p	CCND1	1	33982124.0	Functional MTI	ELISA//Immunofluorescence//Immunoprecipitaion (IP)//Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.1043528072470814	0.4046685138696548	0.8745286444973699
+hsa-let-7c-5p	CDC25A	1	25909324.0	Functional MTI	Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1500560453670912	0.075341900874278	0.3552376395127329
+hsa-let-7c-5p	CEBPB	1	23667114.0	Functional MTI	Luciferase reporter assay	True	False	0.2124938614767596	0.1211033017158462	0.4765351851912824
+hsa-let-7c-5p	COPS6	1	21530537.0	Functional MTI	Western blot	True	True	-0.1630347480813642	0.0010187630455081	0.0439881144947594
+hsa-let-7c-5p	COPS8	1	21530537.0	Functional MTI	Western blot	True	True	-0.276355106268999	0.0014593446843977	0.0483314051178672
+hsa-let-7c-5p	CORO1C	1	32487167.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunoprecipitaion (IP)//Immunohistochemistry (IHC)//RNA-seq//qRT-PCR	True	False	-0.276127228556965	0.1340519088926596	0.5080512300845685
+hsa-let-7c-5p	DICER1	1	18700235.0	Non-Functional MTI	Western blot//Northern blot	True	False	-0.6698403683972932	0.0093446925136663	0.1032685392640375
+hsa-let-7c-5p	GPS1	1	21530537.0	Functional MTI	Western blot	True	False	-0.218183941378818	0.0019532437176205	0.0535993055452945
+hsa-let-7c-5p	IGF1R	1	23503464.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.6472046388250939	0.0109627746424683	0.1123237499058097
+hsa-let-7c-5p	MPL	1	20445018.0	Non-Functional MTI	Luciferase reporter assay	True	False	-0.0611170011743348	0.5065928735491385	0.9418914786109386
+hsa-let-7c-5p	NRAS	1	15766527.0	Functional MTI	Microarray//Northern blot//qRT-PCR//Western blot	True	False	-0.2581903273529737	0.0205920247686835	0.1600221732970717
+hsa-let-7c-5p	PBX3	1	32487167.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunoprecipitaion (IP)//RNA-seq//Immunofluorescence//In situ hybridization	True	False	-0.2058621870203265	0.0385954939617965	0.2361623041133644
+hsa-let-7c-5p	SNHG16	1	32059338.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.0384207237277786	0.7011646636830535	1.0
+hsa-let-7c-5p	TGFBR1	1	19841744.0	Functional MTI	qRT-PCR//Luciferase reporter assay//Western blot	True	False	-0.5358877007600625	0.0058961351595592	0.0833690495649462
+hsa-let-7c-5p	WNT9A	1	33982124.0	Functional MTI	ELISA//Immunofluorescence//Immunoprecipitaion (IP)//Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.0210510623361953	0.4770070697261345	0.9087930025602662
+hsa-miR-1-3p	GJA1	11	17062625.0 // 17401374.0 // 23352489.0 // 23922949.0 // 28112313.0	Functional MTI // Functional MTI (Weak) // Non-Functional MTI	Luciferase reporter assay // Reporter assay // Reporter assay;Other // Western blot // qRT-PCR//Western blot	True	False	-0.0214571117956315	0.2111095765745872	0.6266428299016598
+hsa-miR-1-3p	MET	9	18593903.0 // 18818206.0 // 19710019.0 // 25874496.0 // 27247259.0	Functional MTI	Luciferase reporter assay // Luciferase reporter assay//Western blot // Luciferase reporter assay//qRT-PCR//Western blot // Microarray//qRT-PCR//Western blot	True	False	-0.0550575126162994	0.374146582229811	0.8589101738312198
+hsa-miR-1-3p	TAGLN2	9	20144220.0 // 21304530.0 // 21701775.0 // 21745735.0 // 26414725.0	Functional MTI // Non-Functional MTI	Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay // Reporter assay;Western blot;qRT-PCR // Western blot;qRT-PCR;Microarray	True	False	0.066127440650173	0.3582292725329673	0.8369329644510022
+hsa-miR-1-3p	KCNJ2	8	17401374.0 // 19775284.0 // 28112313.0	Functional MTI // Functional MTI (Weak) // Non-Functional MTI	Luciferase reporter assay // Reporter assay;Other // Western blot	True	False	0.71562135780947	0.0471052088717198	0.267235297376176
+hsa-miR-1-3p	LASP1	8	20843712.0 // 22210864.0 // 26414725.0	Functional MTI // Functional MTI (Weak) // Non-Functional MTI	Immunoblot//Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot // Luciferase reporter assay // Luciferase reporter assay//qRT-PCR//Western blot // Reporter assay	True	False	-0.4434849179754624	0.0038303147196349	0.0690894712928218
+hsa-miR-1-3p	PIM1	8	18818206.0 // 21051663.0 // 26820394.0	Functional MTI	Luciferase reporter assay//Northern blot//Western blot // Western blot // qRT-PCR//Luciferase reporter assay//Western blot	True	False	-0.3770323333019948	0.0347409277949524	0.2215489697346297
+hsa-miR-1-3p	EDN1	6	22963810.0 // 25394359.0 // 28042875.0 // 28493075.0	Functional MTI // Non-Functional MTI	ELISA//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay // Luciferase reporter assay//qRT-PCR	True	False	0.0782317484784044	0.3762787700699129	0.8617064570021278
+hsa-miR-1-3p	FN1	6	21924268.0 // 22210864.0	Functional MTI // Non-Functional MTI	GFP reporter assay//qRT-PCR//Western blot // Immunoblot//Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	-0.3652432305189798	0.0334872095687701	0.2165135857649859
+hsa-miR-1-3p	G6PD	6	14697198.0 // 23921124.0 // 27861141.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Luciferase reporter assay//Quantitative proteomic approach//Western blot // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.240108224936177	0.0685900271000164	0.3352862375162319
+hsa-miR-1-3p	KCNE1	6	17443681.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//Western blot // Luciferase reporter assay//Western blot//5'RACE//Real time RT-PCR	True	False	0.1821312970566897	0.3497461686528658	0.824654218613347
+hsa-miR-1-3p	KRAS	6	26275461.0 // 26852690.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Luciferase reporter assay//qRT-PCR//Western blot	True	True	-0.491069147868785	0.001255932323572	0.0463271661660287
+hsa-miR-1-3p	PTMA	6	22059741.0 // 22210864.0	Functional MTI // Non-Functional MTI	Immunoblot//Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot // Luciferase reporter assay	True	False	0.0413848787081858	0.4663097657290668	0.8966229404120342
+hsa-miR-1-3p	VEGFA	6	27541266.0 // 27777493.0 // 28493075.0	Functional MTI // Non-Functional MTI	ELISA//Immunofluorescence//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot // ELISA//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.0220372761153065	0.912754047499412	1.0
+hsa-miR-1-3p	FOXP1	5	18593903.0 // 18818206.0	Functional MTI	Luciferase reporter assay // Luciferase reporter assay//Western blot // qRT-PCR//Western blot	True	False	-0.4516295567752239	0.0139980023103358	0.128479503095224
+hsa-miR-1-3p	HSPD1	5	17715156.0 // 23226300.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.0489805173179948	0.5485500076524914	0.9856612889181534
+hsa-miR-1-3p	HSPA4	4	17715156.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.0673357469649416	0.3754113721786619	0.8606508367839779
+hsa-miR-1-3p	CDK4	3	27247259.0 // 28159933.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	True	-0.3583407453666006	0.0006928567448836468	0.0390345220827495
+hsa-miR-1-3p	FZD7	3	23939491.0 // 26497855.0	Functional MTI	Luciferase reporter assay//Western blot // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.077843888788719	0.1487248786321957	0.5423213463855834
+hsa-miR-1-3p	HCN2	3	18458081.0 // 19136465.0	Functional MTI	Luciferase reporter assay//Western blot // Reporter assay;Western blot;qRT-PCR // qRT-PCR//Luciferase reporter assay//Western blot	True	False	-0.1539702513310569	0.1707441842308281	0.5873462586763831
+hsa-miR-1-3p	HCN4	3	18458081.0	Functional MTI // Functional MTI (Weak)	Luciferase reporter assay // Reporter assay // qRT-PCR//Luciferase reporter assay//Western blot	True	False	0.0	1.0	1.0
+hsa-miR-1-3p	HDAC4	3	18593903.0 // 18818206.0	Functional MTI	Luciferase reporter assay // Western blot	True	False	-0.4840293198392385	0.0196878264569964	0.1560037036318911
+hsa-miR-1-3p	IGF1	3	26166810.0 // 35421276.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot // Western blotting//qRT-PCR	True	False	-0.0076024153855234	0.924291807942007	1.0
+hsa-miR-1-3p	NOTCH3	3	22210864.0 // 23055528.0	Functional MTI	Immunoblot//Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1854675523145902	0.2035903885804017	0.6130690139337727
+hsa-miR-1-3p	PNP	3	21701775.0 // 22068816.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//Western blot // Western blot;qRT-PCR;Microarray	True	True	-0.4386439863887653	0.0004085105654521581	0.0344312069520987
+hsa-miR-1-3p	SNAI2	3	23142026.0 // 24760686.0	Functional MTI	Flow//Immunoblot//Immunofluorescence//Luciferase reporter assay//qRT-PCR // Immunofluorescence//Immunohistochemistry//qRT-PCR//Western blot	True	False	0.0	1.0	1.0
+hsa-miR-1-3p	XPO6	3	22210864.0	Functional MTI	Immunoblot//Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	-0.3105832886685531	0.0529954445701099	0.2888179029770981
+hsa-miR-1-3p	AGO1	2	23276603.0	Functional MTI	Luciferase reporter assay	True	True	-0.8170685315639402	0.0005432627286138333	0.0366887068818403
+hsa-miR-1-3p	ATP6V1B2	2	20144220.0	Functional MTI	Luciferase reporter assay	True	False	-0.2347677297740733	0.1433186426744239	0.5301790654936619
+hsa-miR-1-3p	CCL2	2	27541266.0	Functional MTI // Non-Functional MTI	ELISA//Immunofluorescence//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	0.2762857705798235	0.3262344454931808	0.790392526929208
+hsa-miR-1-3p	ETS1	2	22664953.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.5558536730024557	0.0360169467661745	0.2262911046996926
+hsa-miR-1-3p	FRS2	2	23939491.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.6000051036888443	0.0082656184188964	0.0976790926508775
+hsa-miR-1-3p	NAIP	2	26459459.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1202941479171723	0.4745482565766649	0.9058755205988552
+hsa-miR-1-3p	PAX3	2	20956382.0	Functional MTI	ChIP-seq//Immunoblot//Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.0516735243316402	0.2552803157494637	0.7052579224489475
+hsa-miR-1-3p	PTBP1	2	26980745.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.2889262067858456	0.0376208234544695	0.232595349019066
+hsa-miR-1-3p	SERP1	2	15685193.0 // 33416075.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//Microarray // Luciferase reporter assay//Microarray//qRT-PCR//Western blotting	True	False	0.0671002542216552	0.3481198661538028	0.8223338123212229
+hsa-miR-1-3p	SLC8A1	2	22362515.0 // 36035156.0	Functional MTI	Luciferase reporter assay//Western blot // Luciferase reporter assay//qRT-PCR	True	False	-0.4679189992437951	0.0378687169831422	0.233496299721264
+hsa-miR-1-3p	SPRED1	2	23625462.0 // 32396270.0	Functional MTI	Luciferase reporter assay//Western blot // RNA-seq//Western blotting	True	False	-0.2536763767697674	0.1018059355107592	0.4302680780289314
+hsa-miR-1-3p	TWF1	2	20571053.0	Functional MTI	Luciferase reporter assay//Microarray//Northern blot//qRT-PCR//Western blot	True	False	-0.3994646355986044	0.002168899210838	0.0556513235305447
+hsa-miR-1-3p	ADAR	1	15685193.0	Functional MTI	Luciferase reporter assay//Microarray	True	False	-0.5137796488204143	0.0021728817454142	0.0556513235305447
+hsa-miR-1-3p	ANXA2	1	24310399.0	Functional MTI	qRT-PCR//Western blot	True	False	-0.0592916869417943	0.6648499893077443	1.0
+hsa-miR-1-3p	API5	1	25433291.0	Functional MTI	FACS//Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.4796495476608702	0.0058169682675679	0.0829441594818386
+hsa-miR-1-3p	ASPH	1	23723006.0	Functional MTI	Luciferase reporter assay	True	False	-0.1995229456980204	0.1536359360506303	0.5531863916574504
+hsa-miR-1-3p	BDNF	1	14697198.0	Functional MTI	Luciferase reporter assay	True	False	-0.0193715223636806	0.2918062475535356	0.7411008779236631
+hsa-miR-1-3p	CAND1	1	15685193.0	Functional MTI	Luciferase reporter assay//Microarray	True	False	-0.6549858832487572	0.0046589415588721	0.0750427160115692
+hsa-miR-1-3p	CCND1	1	27247259.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1043528072470814	0.4046685138696548	0.8745286444973699
+hsa-miR-1-3p	CEBPA	1	18818206.0	Functional MTI	Luciferase reporter assay	True	False	-0.3790111750853651	0.0477678892756443	0.2694870440509048
+hsa-miR-1-3p	CNN3	1	20144220.0	Functional MTI	Luciferase reporter assay	True	False	-0.334815532999369	0.0578033157545896	0.3053193152801614
+hsa-miR-1-3p	CORO1C	1	31485645.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.276127228556965	0.1340519088926596	0.5080512300845685
+hsa-miR-1-3p	CXCR4	1	36597126.0	Functional MTI	Luciferase reporter assay//qRT-PCR//RNA-seq//ChIP-seq//Flow cytometry	True	False	0.559009310136498	0.0418504843665323	0.2482869135194412
+hsa-miR-1-3p	FABP3	1	23141496.0	Functional MTI	ELISA//Immunoprecipitaion//Luciferase reporter assay//qRT-PCR//Western blot	True	True	-0.7317154077702346	2.814947854940088e-06	0.0082083775415725
+hsa-miR-1-3p	FASN	1	24310399.0	Functional MTI	qRT-PCR//Western blot	True	False	-0.4379159030698019	0.0093213158445293	0.1031981278450967
+hsa-miR-1-3p	GATA4	1	19188439.0	Functional MTI	Luciferase reporter assay	True	False	0.0074063740805434	0.305952353405561	0.7601958607919799
+hsa-miR-1-3p	GNA12	1	34787068.0	Functional MTI	Luciferase reporter assay	True	False	-0.2541653583004701	0.0687962648341671	0.3358706410812925
+hsa-miR-1-3p	GPD2	1	31765945.0	Functional MTI	Luciferase reporter assay//Western blotting//Northern blotting//qRT-PCR	True	False	-0.5108590326046242	0.0255794092240054	0.1828810128645216
+hsa-miR-1-3p	HAND2	1	15951802.0	Functional MTI (Weak)	Reporter assay;Other	True	False	0.0105182233643755	0.2129883471979586	0.6299716325537063
+hsa-miR-1-3p	IL11	1	28186993.0	Functional MTI	Western blot	True	False	-0.012116848481297	0.7500803097321791	1.0
+hsa-miR-1-3p	KIF2A	1	15685193.0	Functional MTI	Luciferase reporter assay//Microarray	True	False	-0.5988548010666512	0.0053040515873571	0.0798194104266373
+hsa-miR-1-3p	LARP4	1	20144220.0	Functional MTI	Luciferase reporter assay	True	False	-0.4276359537382597	0.0088345507008805	0.1006737403338131
+hsa-miR-1-3p	MEF2A	1	19188439.0	Functional MTI	Luciferase reporter assay	True	False	-0.4238169059958805	0.0231450465398324	0.1725245945805354
+hsa-miR-1-3p	MYOCD	1	20458751.0	Non-Functional MTI	Western blot	True	False	0.003652068788333	0.3583874381859935	0.8370801725313727
+hsa-miR-1-3p	NEAT1	1	34787068.0	Functional MTI	Luciferase reporter assay	True	False	-0.1067935484682638	0.3469204393452126	0.8206913443080212
+hsa-miR-1-3p	NETO2	1	15685193.0	Non-Functional MTI	Luciferase reporter assay//Microarray	True	False	-0.2280898806364282	0.1336364289536723	0.5070279742519553
+hsa-miR-1-3p	PGD	1	23921124.0	Functional MTI	Luciferase reporter assay//Quantitative proteomic approach//Western blot	True	False	-0.2848530689639325	0.173361275908724	0.5905942592118042
+hsa-miR-1-3p	PGM2	1	15685193.0	Non-Functional MTI	Luciferase reporter assay//Microarray	True	False	-0.2076766116752485	0.1187189781779144	0.4702178708586618
+hsa-miR-1-3p	PIK3CA	1	24486107.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.3913072944904779	0.0213712552720907	0.1639958645208126
+hsa-miR-1-3p	POGK	1	15685193.0	Functional MTI	Luciferase reporter assay//Microarray	True	False	-0.5280647942398076	0.0020185532588948	0.0542440626341031
+hsa-miR-1-3p	PPP2R5A	1	19131648.0	Functional MTI	Luciferase reporter assay//Western blot	True	False	-0.267324647563729	0.0169510656514562	0.1432431344428943
+hsa-miR-1-3p	PRKCE	1	23226300.0	Functional MTI	Luciferase reporter assay	True	False	-0.3641432880502214	0.0161222905593037	0.1392200824654054
+hsa-miR-1-3p	SOX6	1	20081117.0	Functional MTI	Luciferase reporter assay	True	True	-0.6900853356202512	0.0012512625707105	0.0463271661660287
+hsa-miR-1-3p	SOX9	1	23352489.0	Functional MTI	Luciferase reporter assay	True	False	-0.0012124201879046	0.6690774046600432	1.0
+hsa-miR-1-3p	SP1	1	22911796.0	Functional MTI	Luciferase reporter assay	True	True	-0.7436167908002294	0.0013401891731796	0.0471237143005591
+hsa-miR-1-3p	SRF	1	20458751.0	Non-Functional MTI	Western blot	True	True	-0.3896607659725446	0.000625754953538276	0.0379538423623259
+hsa-miR-1-3p	SRXN1	1	15685193.0	Non-Functional MTI	Luciferase reporter assay//Microarray	True	False	0.0265726207626774	0.8552574978330263	1.0
+hsa-miR-1-3p	STAR	1	12344321.0	Functional MTI	Western blotting//Microarray	True	False	-0.0734397400654063	0.2388772558162368	0.6774076719304652
+hsa-miR-1-3p	TH	1	25512392.0	Functional MTI	Luciferase reporter assay	True	False	0.0	1.0	1.0
+hsa-miR-1-3p	TKT	1	23921124.0	Functional MTI	Luciferase reporter assay//Quantitative proteomic approach//Western blot	True	False	-0.2402777135127769	0.1363670425647954	0.5139994948310568
+hsa-miR-1-3p	TMSB4X	1	15951802.0	Functional MTI (Weak)	Reporter assay;Other	True	False	0.2628431727246212	0.0022955474245387	0.0567355156934603
+hsa-miR-1-3p	TWF2	1	20571053.0	Non-Functional MTI	Luciferase reporter assay//Microarray//Northern blot//qRT-PCR//Western blot	True	False	0.0364470403991818	0.5837950558180627	1.0
+hsa-miR-1-3p	WNT4	1	31814903.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.0320686199552397	0.4135111559190665	0.8745286444973699
+hsa-miR-1-3p	YWHAZ	1	24310399.0	Functional MTI	qRT-PCR//Western blot	True	False	-0.3693119980227331	0.007066309215382	0.09068970172255
+hsa-miR-126-5p	SLC45A3	4	18193184.0	Functional MTI // Functional MTI (Weak)	Luciferase reporter assay // Reporter assay;Other // Western blot//Luciferase reporter assay	True	False	-0.4655846323561289	0.0469381449300439	0.266687312096535
+hsa-miR-126-5p	PTPN7	3	21163928.0	Functional MTI // Non-Functional MTI	Flow//Immunoprecipitaion//Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.4794660313910215	0.0030320537526166	0.0632399497630297
+hsa-miR-126-5p	ADAM9	2	23437250.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.1471110722205433	0.3462634067986292	0.819643578990005
+hsa-miR-126-5p	MMP7	2	23437250.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.0844556843338922	0.0836988920746793	0.3801172930285865
+hsa-miR-126-5p	MYC	2	22972034.0	Functional MTI	Immunoblot//Luciferase reporter assay//qRT-PCR	True	False	-0.4817253622469599	0.0044416866705369	0.0732681976421973
+hsa-miR-126-5p	ADAMTS4	1	32469162.0	Functional MTI	ELISA//Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.1484751568053718	0.0333824124095335	0.2159720730567616
+hsa-miR-126-5p	CXCL12	1	23396050.0	Functional MTI	Luciferase reporter assay	True	False	0.0018186159917103	0.9626520652040408	1.0
+hsa-miR-126-5p	DCTN4	1	33116576.0	Functional MTI	Luciferase reporter assay//Immunoprecipitaion (IP)//qRT-PCR//In situ hybridization	True	False	-0.3017031941127604	0.0550607482789847	0.2959353022190208
+hsa-miR-126-5p	DGCR8	1	33098220.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunoprecipitaion (IP)//Immunohistochemistry (IHC)//Immunofluorescence//qRT-PCR	True	False	-0.4516318713202877	0.0040973933822091	0.0716380720300045
+hsa-miR-126-5p	IL17A	1	33365067.0	Functional MTI	Flow cytometry//Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.0018606719544788	0.7504119460832309	1.0
+hsa-miR-126-5p	METTL3	1	33098220.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunoprecipitaion (IP)//Immunohistochemistry (IHC)//Immunofluorescence//qRT-PCR	True	True	-0.4037335179152303	0.0013436861679587	0.0471742988418931
+hsa-miR-126-5p	PIK3R2	1	33098220.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunoprecipitaion (IP)//Immunohistochemistry (IHC)//Immunofluorescence//qRT-PCR	True	False	-0.4523696148129431	0.0463825962046524	0.2649733286102687
+hsa-miR-126-5p	SPRED1	1	28100645.0	Functional MTI	Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	-0.2536763767697674	0.1018059355107592	0.4302680780289314
+hsa-miR-1271-5p	FOXQ1	2	26159618.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	0.0030533366808174	0.7026094386123335	1.0
+hsa-miR-1271-5p	AQP5	1	33760167.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunoprecipitaion (IP)//qRT-PCR	True	False	0.0243326039858805	0.1963740230009549	0.6078194495604721
+hsa-miR-1271-5p	FOXO1	1	36298739.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//Immunofluorescence//ChIP-seq//Flow cytometry	True	False	-0.4576865357700214	0.0358924827278508	0.2259251813664021
+hsa-miR-1306-5p	METTL14	1	36118827.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.725796930941488	0.0017756148710906	0.0517457702470514
+hsa-miR-20b-3p	SUFU	2	33884032.0	Functional MTI	Immunofluorescence//Luciferase reporter assay//Western blotting	True	False	-0.4873693920075029	0.0029192991884724	0.0621163114816029
+hsa-miR-20b-3p	METTL3	1	32826852.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunofluorescence//qRT-PCR	True	True	-0.4037335179152303	0.0013436861679587	0.0471742988418931
+hsa-miR-20b-3p	PTEN	1	32013265.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.2280524353528083	0.155707937336841	0.5573609295170909
+hsa-miR-20b-3p	TXNIP	1	32013265.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.3852628676115314	0.0133515524199306	0.1247022440337465
+hsa-miR-20b-3p	ULK1	1	32826852.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunofluorescence//qRT-PCR	True	False	-0.3825615811902429	0.0201834044874149	0.158123878056748
+hsa-miR-222-5p	ATG10	1	32704465.0	Functional MTI	Luciferase reporter assay//Western blotting//Flow cytometry	True	False	-0.0390699573587699	0.626684476208727	1.0
+hsa-miR-222-5p	NUMB	1	37566749.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.194859064597618	0.159614417439636	0.5660410387639891
+hsa-miR-224-3p	RB1CC1	5	26536662.0 // 27615604.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // dual-luciferase reporter assay//Western blot//Immunohistochemistry	True	False	-0.4946588952785741	0.0035229319448502	0.0670455127869685
+hsa-miR-224-3p	ATG5	2	26536662.0	Functional MTI // Non-Functional MTI	dual-luciferase reporter assay//Western blot//Immunohistochemistry	True	False	-0.0874426900161838	0.2946644334001997	0.7450162943881329
+hsa-miR-224-3p	LDLR	1	32528976.0	Functional MTI	Luciferase reporter assay//Western blotting//Immunofluorescence	True	False	0.328476495425665	0.0801615496620382	0.3698627232945445
+hsa-miR-224-3p	MTDH	1	34893064.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//Immunoprecipitaion (IP)//Immunohistochemistry (IHC)//Flow cytometry	True	False	-0.1406128126782711	0.2671447562206971	0.7235107813780282
+hsa-miR-224-3p	NORAD	1	34893064.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//Immunoprecipitaion (IP)//Flow cytometry//Immunocytochemistry (ICC)	True	False	-0.3686452063992498	0.0064927461037338	0.0870186235914478
+hsa-miR-224-3p	SKIL	1	33114016.0	Functional MTI	Western blotting//Immunofluorescence//qRT-PCR	True	False	-0.3279770953389026	0.0451308761183145	0.2602611996266693
+hsa-miR-224-3p	SMAD4	1	33172486.0	Functional MTI	Luciferase reporter assay//Western blotting//Northern blotting//Immunoprecipitaion (IP)//Immunohistochemistry (IHC)//qRT-PCR//In situ hybridization	True	False	-0.4126139964788041	0.015549031581587	0.1365088657170953
+hsa-miR-28-5p	MPL	3	20445018.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.0611170011743348	0.5065928735491385	0.9418914786109386
+hsa-miR-28-5p	RAP1B	3	24843176.0 // 27729617.0	Functional MTI // Non-Functional MTI	Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay//QRTPCR//Western blot	True	False	-0.3512854414914062	0.0023152738712836	0.0569313088493084
+hsa-miR-28-5p	IGF1	2	26160280.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.0076024153855234	0.924291807942007	1.0
+hsa-miR-28-5p	BAG1	1	24843176.0	Functional MTI	Luciferase reporter assay//QRTPCR//Western blot	True	True	0.2512325794340418	0.0011342548595101	0.0450675339919392
+hsa-miR-28-5p	CDKN1A	1	20190813.0	Functional MTI	qRT-PCR//Luciferase reporter assay//Western blot	True	False	0.3326831372664234	0.0638651674157048	0.3205648254910556
+hsa-miR-28-5p	E2F6	1	20445018.0	Functional MTI	Luciferase reporter assay	True	False	-0.2868201252136917	0.0094484547505936	0.1036922022156576
+hsa-miR-28-5p	FOXO1	1	31934134.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.4576865357700214	0.0358924827278508	0.2259251813664021
+hsa-miR-28-5p	LINC00265	1	33624782.0	Functional MTI	Immunohistochemistry (IHC)//Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.4749267804968253	0.0045111668033166	0.0737971248152373
+hsa-miR-28-5p	MAD2L1	1	24843176.0	Functional MTI	Luciferase reporter assay//QRTPCR//Western blot	True	False	-0.197888654380546	0.0715819381698272	0.3440491305684644
+hsa-miR-28-5p	MAPK1	1	20445018.0	Functional MTI	Luciferase reporter assay	True	False	-0.4818114355208384	0.0201686381167341	0.1580757962910612
+hsa-miR-28-5p	N4BP1	1	20445018.0	Functional MTI	Luciferase reporter assay	True	False	-0.4765303401087345	0.0037974541489645	0.0689487279338458
+hsa-miR-28-5p	OTUB1	1	20445018.0	Functional MTI	Luciferase reporter assay	True	True	-0.2297076003648059	0.0007818885201350597	0.0409762819513844
+hsa-miR-28-5p	PCNA	1	33624782.0	Functional MTI	Immunohistochemistry (IHC)//Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.0371254450871913	0.5646681939450484	1.0
+hsa-miR-28-5p	SREBF2	1	32028704.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.6430512833212365	0.0166591856334447	0.1417100888156186
+hsa-miR-28-5p	STK4	1	37081781.0	Functional MTI	Luciferase reporter assay	True	False	-0.5604958842697042	0.0046257343181001	0.0747620650498615
+hsa-miR-28-5p	TEX261	1	20445018.0	Functional MTI	Luciferase reporter assay	True	True	-0.7424313490335867	2.0245471156234623e-05	0.0132625066261554
+hsa-miR-28-5p	YWHAZ	1	35027933.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.3693119980227331	0.007066309215382	0.09068970172255
+hsa-miR-31-5p	SATB2	15	20980827.0 // 24386467.0 // 24565840.0 // 27593563.0 // 34074322.0	Functional MTI // Non-Functional MTI	In situ hybridization//Luciferase reporter assay//Western blot // Luciferase reporter assay // Luciferase reporter assay//Western blotting//RNA-seq//qRT-PCR // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.214391352330539	0.0118472392651848	0.1169867382090366
+hsa-miR-31-5p	ITGA5	10	19524507.0 // 26729197.0 // 27050274.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.5397914573167085	0.0028578855349418	0.061607652248335
+hsa-miR-31-5p	RHOA	7	19524507.0 // 22736314.0 // 22854067.0 // 27904131.0	Functional MTI // Non-Functional MTI	Immunohistochemistry//In situ hybridization//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay//qRT-PCR//Western blot // qRT-PCR//Western blot	True	False	-0.0058462921053014	0.9340255873482162	1.0
+hsa-miR-31-5p	RASA1	6	23322774.0 // 26657862.0 // 26747707.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.3846397338458026	0.0119463862224176	0.1175213667595665
+hsa-miR-31-5p	DACT3	5	21048943.0	Functional MTI // Non-Functional MTI	Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	0.0763957538800029	0.223382830819901	0.6498196902842583
+hsa-miR-31-5p	DKK1	5	21048943.0	Functional MTI // Non-Functional MTI	Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	0.0105838776787892	0.8101586325069521	1.0
+hsa-miR-31-5p	STK40	5	23233723.0 // 34170070.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.3135107584100271	0.0154066057484328	0.1358632727658646
+hsa-miR-31-5p	ARID1A	4	24793973.0	Functional MTI // Non-Functional MTI	Flow//Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.4753362395968249	0.0075885128774338	0.0938889784943987
+hsa-miR-31-5p	E2F2	4	27174918.0	Functional MTI // Non-Functional MTI	Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.2731670996964409	0.0230541482834977	0.1721610371991735
+hsa-miR-31-5p	HIF1AN	4	22532441.0	Functional MTI	Northern blot//qRT-PCR//Western blot	True	False	-0.8705742792685643	0.0023226384486436	0.0569587536402139
+hsa-miR-31-5p	MET	3	22948084.0 // 23552883.0 // 23553486.0	Functional MTI	Immunoblot//Immunohistochemistry//Luciferase reporter assay//qRT-PCR // Luciferase reporter assay	True	False	-0.0550575126162994	0.374146582229811	0.8589101738312198
+hsa-miR-31-5p	RDX	3	19524507.0 // 22089331.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot // Western blot	True	False	-0.2745437005706235	0.0969177821119536	0.4175472739725657
+hsa-miR-31-5p	WASF3	3	21105030.0	Functional MTI (Weak)	GFP reporter assay//Immunoblot//qRT-PCR	True	False	-0.1778374945486101	0.0452984610764609	0.2609832182041834
+hsa-miR-31-5p	ABCB9	2	24099915.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.0367292340283818	0.764834889074673	1.0
+hsa-miR-31-5p	CDK1	2	23233736.0	Functional MTI	Luciferase reporter assay	True	False	0.0188537095063765	0.9219740021600296	1.0
+hsa-miR-31-5p	FOXP3	2	19408243.0	Functional MTI	Luciferase reporter assay // qRT-PCR//Luciferase reporter assay//Western blot	True	False	-0.6169073551635771	0.0016651020178607	0.0504217816268368
+hsa-miR-31-5p	FZD3	2	19524507.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1226333417078073	0.4260832176378802	0.8745286444973699
+hsa-miR-31-5p	LATS2	2	20237410.0 // 31623173.0	Functional MTI	Immunohistochemistry (IHC)//Luciferase reporter assay//Microarray//qRT-PCR//Western blotting // qRT-PCR//Luciferase reporter assay	True	False	-0.2220971535934557	0.2331820344254845	0.6677225880255759
+hsa-miR-31-5p	MLH1	2	23539435.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	-0.066329739207481	0.2396821431383868	0.6785260920809598
+hsa-miR-31-5p	MMP16	2	19524507.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.0188733344623257	0.4129832690270267	0.8745286444973699
+hsa-miR-31-5p	MPRIP	2	19524507.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.2819008226591746	0.0125236466566955	0.1203611559427326
+hsa-miR-31-5p	RHOBTB1	2	23258531.0	Functional MTI	Luciferase reporter assay	True	False	-0.0253701467056765	0.8550705666798482	1.0
+hsa-miR-31-5p	TBXA2R	2	24558106.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//Microarray//qRT-PCR//Western blot	True	False	-0.0508373196695208	0.6639146269668363	1.0
+hsa-miR-31-5p	TIAM1	2	20826792.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//Microarray//Northern blot//qRT-PCR	True	False	0.0349155979699747	0.7298834817717597	1.0
+hsa-miR-31-5p	ACOX1	1	33246464.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.1264087903200438	0.2941932747034677	0.7444476174341629
+hsa-miR-31-5p	ARPC5	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.053170665864051	0.5766840456845918	1.0
+hsa-miR-31-5p	CREG1	1	23518389.0	Functional MTI	Immunofluorescence//Luciferase reporter assay//qRT-PCR//Western blot	True	False	0.2303618419378812	0.0346566682887645	0.2212636930933687
+hsa-miR-31-5p	CXCL12	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	0.0018186159917103	0.9626520652040408	1.0
+hsa-miR-31-5p	DMD	1	21212803.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1533439112204869	0.2866805022556793	0.7350298525169765
+hsa-miR-31-5p	ETS1	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.5558536730024557	0.0360169467661745	0.2262911046996926
+hsa-miR-31-5p	GAS5	1	35920180.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//Immunoprecipitaion (IP)//Immunofluorescence	True	False	0.1010114232156942	0.2779637347486023	0.7262895322692744
+hsa-miR-31-5p	HIF1A	1	32085620.0	Functional MTI	Immunofluorescence//In situ hybridization//Luciferase reporter assay//qRT-PCR	True	False	-0.0102628923560732	0.9624425078476164	1.0
+hsa-miR-31-5p	HOXC13	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	0.0	1.0	1.0
+hsa-miR-31-5p	ICAM1	1	19949084.0	Non-Functional MTI	Luciferase reporter assay	True	False	0.8144474529852742	0.0267117140373203	0.1881200936885737
+hsa-miR-31-5p	JAZF1	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.2710475008482577	0.045847688774712	0.2629420675579043
+hsa-miR-31-5p	KLF13	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.0595584937258911	0.6000974440380737	1.0
+hsa-miR-31-5p	MAP4K4	1	22948084.0	Functional MTI	Immunoblot//Immunohistochemistry//Luciferase reporter assay//qRT-PCR	True	False	-0.4271864666287184	0.0158204739914239	0.1376173396586954
+hsa-miR-31-5p	MCM2	1	23233736.0	Functional MTI	Luciferase reporter assay	True	False	-0.4658774085284192	0.0021838142892571	0.0557524528623042
+hsa-miR-31-5p	MMP3	1	31934214.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//ELISA	True	False	0.0	1.0	1.0
+hsa-miR-31-5p	NAT8L	1	35920180.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//Immunoprecipitaion (IP)//Immunofluorescence	True	False	0.0155091723270259	0.6656617101309461	1.0
+hsa-miR-31-5p	NFAT5	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.8026968408835634	0.0057576159111199	0.0824037390789764
+hsa-miR-31-5p	NUMB	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.194859064597618	0.159614417439636	0.5660410387639891
+hsa-miR-31-5p	PPP2R2A	1	20237410.0	Functional MTI	qRT-PCR//Luciferase reporter assay	True	False	-0.3006847689152114	0.0508001381292898	0.281051501425352
+hsa-miR-31-5p	PRKCE	1	23364795.0	Functional MTI	Luciferase reporter assay	True	False	-0.3641432880502214	0.0161222905593037	0.1392200824654054
+hsa-miR-31-5p	RAB27A	1	22948084.0	Functional MTI	Immunoblot//Immunohistochemistry//Luciferase reporter assay//qRT-PCR	True	False	-0.3988324460291753	0.008337143739923	0.0981052240047733
+hsa-miR-31-5p	RET	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.0569384071935394	0.3275697724229548	0.7920413536714717
+hsa-miR-31-5p	SELE	1	19949084.0	Functional MTI	Immunocytochemistry//Northern blot//qRT-PCR//Western blot	True	False	-0.0015540541566187	0.9612155868064208	1.0
+hsa-miR-31-5p	SLC20A1	1	31934214.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//ELISA	True	False	-0.3321137858511488	0.0558022158388839	0.2988250149514562
+hsa-miR-31-5p	SP7	1	23827457.0	Functional MTI	Luciferase reporter assay//Microarray//qRT-PCR	True	False	-0.0040611561492594	0.8394335780832212	1.0
+hsa-miR-31-5p	SRC	1	22948084.0	Functional MTI	Immunoblot//Immunohistochemistry//Luciferase reporter assay//qRT-PCR	True	False	-0.2170748185818289	0.2814869555269229	0.7293252555499118
+hsa-miR-31-5p	TNS1	1	35037949.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.1968557618375321	0.1999140477863585	0.6079038002185188
+hsa-miR-31-5p	YY1	1	19524507.0	Non-Functional MTI	Luciferase reporter assay//qRT-PCR	True	False	-0.3624816807497968	0.0086315756979106	0.0996678022225379
+hsa-miR-369-5p	DNMT3A	2	21660946.0	Functional MTI (Weak) // Non-Functional MTI	Luciferase reporter assay // Reporter assay	True	False	-0.6150446169378062	0.0041112030665006	0.0716628206774605
+hsa-miR-369-5p	DNMT3B	2	21660946.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Reporter assay;Western blot;qRT-PCR	True	False	-0.1616385613175512	0.1119966139303485	0.4541371982485845
+hsa-miR-369-5p	FABP4	2	21660946.0	Functional MTI // Functional MTI (Weak)	Luciferase reporter assay // Reporter assay	True	False	-0.1080901071237783	0.0634090284598526	0.3189773020587211
+hsa-miR-491-5p	MMP9	9	21831363.0 // 23725476.0 // 27023472.0 // 34664683.0	Functional MTI // Non-Functional MTI	Immunohistochemistry//Microarray//qRT-PCR//Western blot // Luciferase reporter assay // Luciferase reporter assay//Microarray//Western blot // Luciferase reporter assay//Western blotting//qRT-PCR//ELISA	True	False	0.7666992170864533	0.0704954645899998	0.3407354567129521
+hsa-miR-491-5p	GIT1	4	24335959.0	Functional MTI // Non-Functional MTI	Immunofluorescence//Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot	True	True	-0.576689660529388	0.0004379759130057664	0.03507110633429
+hsa-miR-491-5p	NOTCH3	4	27035429.0	Functional MTI	Luciferase reporter assay	True	False	-0.1854675523145902	0.2035903885804017	0.6130690139337727
+hsa-miR-491-5p	BCL2L1	3	20039318.0 // 23519249.0 // 24747968.0	Functional MTI	Flow cytometry//GFP reporter//QRTPCR//Western blot // Luciferase reporter assay // Luciferase reporter assay//Western blot	True	False	-0.1029851178940074	0.5026610386021304	0.9382498161576838
+hsa-miR-491-5p	IGF2BP1	2	27158341.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay	True	False	0.1349025162611717	0.2053226160135489	0.6161179303582827
+hsa-miR-491-5p	SMAD3	2	25196641.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.5576281301045309	0.0068177621748529	0.0890401186008683
+hsa-miR-491-5p	CHD4	1	20065103.0	Non-Functional MTI	Luciferase reporter assay	True	False	-0.0880280460533235	0.2543790099841533	0.7039434961713191
+hsa-miR-491-5p	E2F2	1	33342041.0	Functional MTI	Luciferase reporter assay//Western blotting	True	False	-0.2731670996964409	0.0230541482834977	0.1721610371991735
+hsa-miR-491-5p	FOXP4	1	33936279.0	Functional MTI	Luciferase reporter assay//qRT-PCR//Western blotting	True	False	-0.4153598399094568	0.0252230370962849	0.181510363248222
+hsa-miR-491-5p	LBX2-AS1	1	33342041.0	Functional MTI	Luciferase reporter assay//Western blotting	True	False	-0.2181162982573875	0.0462202815871424	0.2643193516403866
+hsa-miR-491-5p	MMP2	1	23725476.0	Functional MTI	Immunohistochemistry//Microarray//qRT-PCR//Western blot	True	False	0.0378288994873024	0.4999496655583356	0.9350893569968752
+hsa-miR-491-5p	TAF10	1	20065103.0	Non-Functional MTI	Luciferase reporter assay	True	False	0.1445910737513348	0.072754996321635	0.3475915248268789
+hsa-miR-491-5p	TCF7	1	36988257.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR	True	False	-0.6557000992712315	0.0112548387551829	0.1138200789730095
+hsa-miR-491-5p	TP53	1	23519249.0	Functional MTI	Flow cytometry//GFP reporter//QRTPCR//Western blot	True	True	-0.4088659956575483	0.0005520663526550209	0.0367331933527422
+hsa-miR-548p	APOB	4	28336556.0	Functional MTI // Non-Functional MTI	Immunoprecipitaion//Luciferase reporter assay//qRT-PCR//Western blot	True	False	0.0021666715603586	0.7949176085063123	1.0
+hsa-miR-548p	LAMTOR5	2	26583881.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//qRT-PCR//Western blot	True	False	0.1206890781634308	0.1699451256019878	0.5858411769758276
+hsa-miR-550a-3-5p	CCL2	1	32493454.0	Functional MTI	Immunohistochemistry (IHC)//Microarray//qRT-PCR//Western blotting	True	False	0.2762857705798235	0.3262344454931808	0.790392526929208
+hsa-miR-556-5p	PPP2R2A	2	26297546.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay//Western blot	True	False	-0.3006847689152114	0.0508001381292898	0.281051501425352
+hsa-miR-99b-3p	GSK3B	2	26315788.0 // 32814818.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR // Luciferase reporter assay//qRT-PCR//Western blot	True	False	-0.1964595396777585	0.3637009396274558	0.8449717585504425

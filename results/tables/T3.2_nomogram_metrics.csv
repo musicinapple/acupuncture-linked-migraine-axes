@@ -1,0 +1,3 @@
+dataset,n_total,n_cases,n_controls,auc,signature_genes_total,signature_genes_used_train,signature_genes_missing_train,signature_genes_used_external,signature_genes_missing_external
+Train (E-MTAB-13397),104,44,60,0.9803030303030303,32,32,0,30,2
+External (PRJEB40032),32,20,12,0.6583333333333333,32,32,0,30,2

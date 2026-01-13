@@ -1,0 +1,6 @@
+gene_symbol	exposure_id	exposure_trait
+CRP	ebi-a-GCST90029070	C-reactive protein levels
+IL6	ebi-a-GCST90012005	Interleukin-6 levels
+TNFR1	ebi-a-GCST90012015	Tumor necrosis factor receptor 1 levels
+CORTISOL	ieu-a-1012	Plasma cortisol
+HRV_RMSSD	ebi-a-GCST004733	Heart rate variability traits (RMSSD)

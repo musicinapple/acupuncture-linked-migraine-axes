@@ -1,0 +1,70 @@
+{
+  "run_at_utc": "2025-12-30T07:21:54Z",
+  "inputs": {
+    "mirna_response": "results/tables/T2.8_gse198274_mirna_response.csv",
+    "mirna_contrast": "case_after_vs_before",
+    "mirtarbase": "data/raw/mirtarbase/10.0/miRTarBase_SE_WR.csv",
+    "species": "hsa",
+    "human_deg": "results/tables/T2.6b_deg_prjeb40032_interictal_vs_control.csv"
+  },
+  "parameters": {
+    "top_mirnas": 25,
+    "mirna_fdr_prefer": null,
+    "min_abs_log2fc": 0.0,
+    "human_fdr": 0.05,
+    "human_top_genes_fallback": 500,
+    "max_edges_plot": 180,
+    "run_pathway_enrichment": true,
+    "enrichment_sources": "GO:BP,GO:MF,GO:CC,REAC,KEGG",
+    "enrichment_organism": "hsapiens",
+    "enrichment_user_threshold": 0.05,
+    "enrichment_significance_threshold_method": "g_SCS",
+    "enrichment_no_iea": false,
+    "enrichment_timeout": 60,
+    "max_terms_per_source": 10
+  },
+  "derived": {
+    "selected_mirnas": [
+      "hsa-miR-99b-3p",
+      "hsa-miR-491-5p",
+      "hsa-miR-1306-5p",
+      "hsa-miR-222-5p",
+      "hsa-miR-369-5p",
+      "hsa-miR-4467",
+      "hsa-miR-548ah-3p",
+      "hsa-miR-548p",
+      "hsa-miR-4492",
+      "hsa-miR-12136",
+      "hsa-let-7c-5p",
+      "hsa-miR-3120-5p",
+      "hsa-miR-550a-3-5p",
+      "hsa-miR-6784-3p",
+      "hsa-miR-1323",
+      "hsa-miR-31-5p",
+      "hsa-miR-224-3p",
+      "hsa-miR-126-5p",
+      "hsa-miR-556-5p",
+      "hsa-miR-3127-5p",
+      "hsa-miR-1-3p",
+      "hsa-miR-20b-3p",
+      "hsa-miR-1271-5p",
+      "hsa-miR-6126",
+      "hsa-miR-28-5p"
+    ],
+    "disease_set_rule": "FDR<= 0.05",
+    "n_edges_total": 231,
+    "n_edges_axes": 18,
+    "n_axes_genes": 16,
+    "n_pathway_terms": 44
+  },
+  "outputs": {
+    "edges_tsv": "results/tables/T2.9_mirna_target_edges_prjeb40032_interictal.tsv",
+    "axes_tsv": "results/tables/T2.9_mechanism_axes_prjeb40032_interictal.tsv",
+    "enrichment_csv": "results/tables/T2.9_mirna_target_enrichment_prjeb40032_interictal.csv",
+    "network_pdf": "figures/raw_plots/Fig3N_mirna_mrna_axes_network_prjeb40032_interictal.pdf",
+    "pathway_terms_csv": "results/tables/T2.9_mechanism_axes_pathway_enrichment_prjeb40032_interictal.csv",
+    "pathway_raw_json": "results/tables/T2.9_mechanism_axes_pathway_enrichment_prjeb40032_interictal_raw.json",
+    "pathway_fig_pdf": "figures/raw_plots/Fig3O_mechanism_axes_pathway_enrichment_prjeb40032_interictal.pdf",
+    "mechanism_note_md": "results/tables/T2.9_mechanism_note_prjeb40032_interictal.md"
+  }
+}

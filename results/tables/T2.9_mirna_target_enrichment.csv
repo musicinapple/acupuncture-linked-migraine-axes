@@ -1,0 +1,26 @@
+mirna,direction,n_targets_in_universe,n_targets_in_disease_set,disease_set_rule,pvalue_fisher_greater,padj_fisher
+hsa-miR-1-3p,down_after,80,8,FDR<= 0.05,0.004321524682851311,0.10803811707128279
+hsa-miR-28-5p,down_after,17,3,FDR<= 0.05,0.016302633102442652,0.20378291378053315
+hsa-let-7c-5p,down_after,29,3,FDR<= 0.05,0.06595502453905633,0.4587109556140641
+hsa-miR-491-5p,down_after,14,2,FDR<= 0.05,0.07339375289825026,0.4587109556140641
+hsa-miR-20b-3p,up_after,5,1,FDR<= 0.05,0.15140545449899967,0.7570272724949983
+hsa-miR-126-5p,down_after,13,1,FDR<= 0.05,0.34745815009014647,1.0
+hsa-miR-12136,down_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-1271-5p,up_after,3,0,FDR<= 0.05,1.0,1.0
+hsa-miR-1306-5p,up_after,1,0,FDR<= 0.05,1.0,1.0
+hsa-miR-1323,down_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-222-5p,up_after,2,0,FDR<= 0.05,1.0,1.0
+hsa-miR-224-3p,down_after,7,0,FDR<= 0.05,1.0,1.0
+hsa-miR-31-5p,down_after,52,0,FDR<= 0.05,1.0,1.0
+hsa-miR-3120-5p,down_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-3127-5p,up_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-369-5p,down_after,3,0,FDR<= 0.05,1.0,1.0
+hsa-miR-4467,up_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-4492,down_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-548ah-3p,down_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-548p,down_after,2,0,FDR<= 0.05,1.0,1.0
+hsa-miR-550a-3-5p,up_after,1,0,FDR<= 0.05,1.0,1.0
+hsa-miR-556-5p,down_after,1,0,FDR<= 0.05,1.0,1.0
+hsa-miR-6126,up_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-6784-3p,up_after,0,0,FDR<= 0.05,1.0,1.0
+hsa-miR-99b-3p,down_after,1,0,FDR<= 0.05,1.0,1.0

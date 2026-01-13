@@ -1,0 +1,17 @@
+{
+  "argv": [],
+  "created_at": "2026-01-12T04:03:36Z",
+  "params": {
+    "bootstrap": 2000,
+    "case_label": "case",
+    "deg_table": null,
+    "expr_gene_col": "gene_symbol",
+    "expression_matrix": "data/processed/validation_PRJEB40032_expression_matrix.tsv",
+    "metadata": "data/processed/validation_PRJEB40032_sample_metadata.tsv",
+    "metadata_group_col": "group",
+    "metadata_sample_col": "sample_id",
+    "seed": 42,
+    "signature": "results/tables/T3.3_human_intersection_genes.csv",
+    "signature_gene_col": "gene_symbol"
+  }
+}

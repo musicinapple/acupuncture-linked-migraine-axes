@@ -1,0 +1,2614 @@
+{
+  "result": [
+    {
+      "description": "Oncogene Induced Senescence",
+      "effective_domain_size": 11004,
+      "goshv": 42436,
+      "intersection_size": 4,
+      "intersections": [
+        [
+          "REAC"
+        ],
+        [],
+        [
+          "REAC"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "REAC"
+        ],
+        [],
+        [],
+        [
+          "REAC"
+        ]
+      ],
+      "name": "Oncogene Induced Senescence",
+      "native": "REAC:R-HSA-2559585",
+      "p_value": 2.8464183491287493e-05,
+      "parents": [
+        "REAC:R-HSA-2559583"
+      ],
+      "precision": 0.26666666666666666,
+      "query": "query_1",
+      "query_size": 15,
+      "recall": 0.12121212121212122,
+      "significant": true,
+      "source": "REAC",
+      "term_size": 33,
+      "source_order": 1653,
+      "group_id": 31
+    },
+    {
+      "description": "\"Any process that activates or increases the frequency, rate or extent of a cellular process, any of those that are carried out at the cellular level, but are not necessarily restricted to a single cell. For example, cell communication occurs among more than one cell, but occurs at the cellular level.\" [GOC:jid]",
+      "effective_domain_size": 21026,
+      "goshv": 22792,
+      "intersection_size": 15,
+      "intersections": [
+        [
+          "IMP"
+        ],
+        [
+          "ISS"
+        ],
+        [
+          "IDA",
+          "IMP"
+        ],
+        [],
+        [
+          "IMP"
+        ],
+        [
+          "IC"
+        ],
+        [
+          "IMP"
+        ],
+        [
+          "IMP",
+          "IEA"
+        ],
+        [
+          "IMP",
+          "ISS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "IMP"
+        ],
+        [
+          "IDA",
+          "IBA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IGI",
+          "ISS",
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "ISS",
+          "IEA"
+        ]
+      ],
+      "name": "positive regulation of cellular process",
+      "native": "GO:0048522",
+      "p_value": 8.951771870246038e-05,
+      "parents": [
+        "GO:0009987",
+        "GO:0048518",
+        "GO:0050794"
+      ],
+      "precision": 0.9375,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.002533783783783784,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 5920,
+      "source_order": 12638,
+      "group_id": 5
+    },
+    {
+      "description": "Endocrine resistance",
+      "effective_domain_size": 8484,
+      "goshv": 40409,
+      "intersection_size": 4,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Endocrine resistance",
+      "native": "KEGG:01522",
+      "p_value": 9.627491390085711e-05,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.4444444444444444,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.042105263157894736,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 95,
+      "source_order": 196,
+      "group_id": 14
+    },
+    {
+      "description": "\"Any process that activates or increases the frequency, rate or extent of a biological process. Biological processes are regulated by many means; examples include the control of gene expression, protein modification or interaction with a protein or substrate molecule.\" [GOC:jid]",
+      "effective_domain_size": 21026,
+      "goshv": 22788,
+      "intersection_size": 15,
+      "intersections": [
+        [
+          "IMP"
+        ],
+        [
+          "ISS"
+        ],
+        [
+          "IDA",
+          "IMP"
+        ],
+        [],
+        [
+          "IMP"
+        ],
+        [
+          "ISS",
+          "IC",
+          "IEA"
+        ],
+        [
+          "IMP"
+        ],
+        [
+          "IMP",
+          "IEA"
+        ],
+        [
+          "IMP",
+          "ISS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "IMP"
+        ],
+        [
+          "IDA",
+          "IBA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IGI",
+          "ISS",
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "ISS",
+          "IEA"
+        ]
+      ],
+      "name": "positive regulation of biological process",
+      "native": "GO:0048518",
+      "p_value": 0.00020470903165050993,
+      "parents": [
+        "GO:0008150",
+        "GO:0050789"
+      ],
+      "precision": 0.9375,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0023946360153256703,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 6264,
+      "source_order": 12634,
+      "group_id": 5
+    },
+    {
+      "description": "Bladder cancer",
+      "effective_domain_size": 8484,
+      "goshv": 40683,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Bladder cancer",
+      "native": "KEGG:05219",
+      "p_value": 0.0004662288996995521,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.07317073170731707,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 41,
+      "source_order": 470,
+      "group_id": 15
+    },
+    {
+      "description": "Breast cancer",
+      "effective_domain_size": 8484,
+      "goshv": 40688,
+      "intersection_size": 4,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Breast cancer",
+      "native": "KEGG:05224",
+      "p_value": 0.0005508563939196378,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.4444444444444444,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.027210884353741496,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 147,
+      "source_order": 475,
+      "group_id": 16
+    },
+    {
+      "description": "Viral carcinogenesis",
+      "effective_domain_size": 8484,
+      "goshv": 40668,
+      "intersection_size": 4,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Viral carcinogenesis",
+      "native": "KEGG:05203",
+      "p_value": 0.001897441886780299,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.4444444444444444,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.01990049751243781,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 201,
+      "source_order": 455,
+      "group_id": 17
+    },
+    {
+      "description": "Melanoma",
+      "effective_domain_size": 8484,
+      "goshv": 40682,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Melanoma",
+      "native": "KEGG:05218",
+      "p_value": 0.0025657357120126216,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.041666666666666664,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 72,
+      "source_order": 469,
+      "group_id": 18
+    },
+    {
+      "description": "Non-small cell lung cancer",
+      "effective_domain_size": 8484,
+      "goshv": 40687,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Non-small cell lung cancer",
+      "native": "KEGG:05223",
+      "p_value": 0.0025657357120126216,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.041666666666666664,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 72,
+      "source_order": 474,
+      "group_id": 19
+    },
+    {
+      "description": "Human T-cell leukemia virus 1 infection",
+      "effective_domain_size": 8484,
+      "goshv": 40660,
+      "intersection_size": 4,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Human T-cell leukemia virus 1 infection",
+      "native": "KEGG:05166",
+      "p_value": 0.0026103125462376706,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.4444444444444444,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.01834862385321101,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 218,
+      "source_order": 447,
+      "group_id": 20
+    },
+    {
+      "description": "Human cytomegalovirus infection",
+      "effective_domain_size": 8484,
+      "goshv": 40657,
+      "intersection_size": 4,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Human cytomegalovirus infection",
+      "native": "KEGG:05163",
+      "p_value": 0.002853085301077052,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.4444444444444444,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.017937219730941704,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 223,
+      "source_order": 444,
+      "group_id": 21
+    },
+    {
+      "description": "Glioma",
+      "effective_domain_size": 8484,
+      "goshv": 40678,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Glioma",
+      "native": "KEGG:05214",
+      "p_value": 0.002900310784456189,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.04,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 75,
+      "source_order": 465,
+      "group_id": 22
+    },
+    {
+      "description": "Chronic myeloid leukemia",
+      "effective_domain_size": 8484,
+      "goshv": 40684,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Chronic myeloid leukemia",
+      "native": "KEGG:05220",
+      "p_value": 0.0030178927098732855,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.039473684210526314,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 76,
+      "source_order": 471,
+      "group_id": 23
+    },
+    {
+      "description": "Pancreatic cancer",
+      "effective_domain_size": 8484,
+      "goshv": 40676,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Pancreatic cancer",
+      "native": "KEGG:05212",
+      "p_value": 0.0030178927098732855,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.039473684210526314,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 76,
+      "source_order": 463,
+      "group_id": 24
+    },
+    {
+      "description": "\"That part of the nuclear content other than the chromosomes or the nucleolus.\" [GOC:ma, ISBN:0124325653]",
+      "effective_domain_size": 22149,
+      "goshv": 36437,
+      "intersection_size": 11,
+      "intersections": [
+        [
+          "TAS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "nucleoplasm",
+      "native": "GO:0005654",
+      "p_value": 0.003065028323319802,
+      "parents": [
+        "GO:0031981",
+        "GO:0110165"
+      ],
+      "precision": 0.6875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0025851938895417154,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 4255,
+      "source_order": 247,
+      "group_id": 2
+    },
+    {
+      "description": "\"The process in which a relatively unspecialized cell acquires specialized features of a hematopoietic stem cell. A stem cell is a cell that retains the ability to divide and proliferate throughout life to provide progenitor cells that can differentiate into specialized cells.\" [GOC:bf, GOC:BHF, GOC:dph, GOC:rl, PMID:15378083]",
+      "effective_domain_size": 21026,
+      "goshv": 24388,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "ISS"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IEA"
+        ],
+        [],
+        [
+          "IMP"
+        ]
+      ],
+      "name": "hematopoietic stem cell differentiation",
+      "native": "GO:0060218",
+      "p_value": 0.003530595439461619,
+      "parents": [
+        "GO:0002244",
+        "GO:0048863"
+      ],
+      "precision": 0.1875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.08333333333333333,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 36,
+      "source_order": 14234,
+      "group_id": 6
+    },
+    {
+      "description": "\"Any process that modulates the frequency, rate or extent of multicellular organismal development.\" [GOC:obol]",
+      "effective_domain_size": 21026,
+      "goshv": 35106,
+      "intersection_size": 8,
+      "intersections": [
+        [
+          "IMP"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IEA"
+        ],
+        [
+          "ISS"
+        ],
+        [],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "IBA"
+        ],
+        [
+          "IMP"
+        ],
+        [
+          "IEA"
+        ],
+        [],
+        [
+          "IEA"
+        ]
+      ],
+      "name": "regulation of multicellular organismal development",
+      "native": "GO:2000026",
+      "p_value": 0.0045979703710571015,
+      "parents": [
+        "GO:0007275",
+        "GO:0050793",
+        "GO:0051239"
+      ],
+      "precision": 0.5,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.005641748942172073,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 1418,
+      "source_order": 24952,
+      "group_id": 11
+    },
+    {
+      "description": "\"The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.\" [GOC:hjd, GOC:jl]",
+      "effective_domain_size": 22149,
+      "goshv": 36557,
+      "intersection_size": 12,
+      "intersections": [
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "IBA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IBA",
+          "TAS"
+        ],
+        [
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "cytosol",
+      "native": "GO:0005829",
+      "p_value": 0.005310533238307477,
+      "parents": [
+        "GO:0005737",
+        "GO:0110165"
+      ],
+      "precision": 0.75,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0021684134441633538,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 5534,
+      "source_order": 367,
+      "group_id": 3
+    },
+    {
+      "description": "\"A process leading to the generation of a functional miRNA. Includes the cleavage of stem-loop RNA precursors into microRNAs (miRNAs). miRNAs are a class of small RNAs that primarily silence genes by blocking the translation of mRNA transcripts into protein, or by increasing the degradation of non-protein-coding RNA transcripts.\" [GOC:aruk, GOC:bc, GOC:dph, GOC:rl, GOC:tb, PMID:15066275, PMID:15066283, PMID:23985560, PMID:28379604]",
+      "effective_domain_size": 21026,
+      "goshv": 18974,
+      "intersection_size": 3,
+      "intersections": [
+        [
+          "IDA",
+          "IMP"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IEA"
+        ]
+      ],
+      "name": "miRNA processing",
+      "native": "GO:0035196",
+      "p_value": 0.00698744663034782,
+      "parents": [
+        "GO:0070918"
+      ],
+      "precision": 0.1875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.06666666666666667,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 45,
+      "source_order": 8820,
+      "group_id": 7
+    },
+    {
+      "description": "\"Any process that modulates the frequency, rate or extent of the chemical reactions and pathways within a cell or an organism involving those compounds formed as a part of the normal anabolic and catabolic processes. These processes take place in most, if not all, cells of the organism.\" [PMID:19211694]",
+      "effective_domain_size": 21026,
+      "goshv": 27719,
+      "intersection_size": 13,
+      "intersections": [
+        [
+          "IDA",
+          "IMP",
+          "IEA"
+        ],
+        [],
+        [
+          "TAS"
+        ],
+        [
+          "NAS"
+        ],
+        [
+          "IMP",
+          "NAS"
+        ],
+        [
+          "ISS",
+          "IC",
+          "IEA"
+        ],
+        [
+          "ISS",
+          "IEA"
+        ],
+        [
+          "IMP"
+        ],
+        [
+          "IMP",
+          "ISS"
+        ],
+        [
+          "IMP",
+          "IBA"
+        ],
+        [],
+        [
+          "IBA",
+          "NAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "ISS",
+          "IBA",
+          "IEA"
+        ],
+        [],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "ISS",
+          "IBA",
+          "NAS",
+          "IEA"
+        ]
+      ],
+      "name": "regulation of primary metabolic process",
+      "native": "GO:0080090",
+      "p_value": 0.007049569605545324,
+      "parents": [
+        "GO:0019222",
+        "GO:0044238"
+      ],
+      "precision": 0.8125,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.002411873840445269,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 5390,
+      "source_order": 17565,
+      "group_id": 8
+    },
+    {
+      "description": "Mitophagy - animal",
+      "effective_domain_size": 8484,
+      "goshv": 40487,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Mitophagy - animal",
+      "native": "KEGG:04137",
+      "p_value": 0.00748343660852168,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.02912621359223301,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 103,
+      "source_order": 274,
+      "group_id": 25
+    },
+    {
+      "description": "\"The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.\" [ISBN:0198547684]",
+      "effective_domain_size": 22149,
+      "goshv": 36494,
+      "intersection_size": 16,
+      "intersections": [
+        [
+          "IDA",
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "ISS",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "ISS",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IEA"
+        ],
+        [
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IBA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IEA"
+        ],
+        [
+          "IEA"
+        ],
+        [
+          "TAS",
+          "IEA"
+        ],
+        [
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "cytoplasm",
+      "native": "GO:0005737",
+      "p_value": 0.0154186214214504,
+      "parents": [
+        "GO:0005622",
+        "GO:0110165"
+      ],
+      "precision": 1.0,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.001277241159096352,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 12527,
+      "source_order": 304,
+      "group_id": 3
+    },
+    {
+      "description": "\"Any process that modulates the frequency, rate or extent of cell proliferation.\" [GOC:jl]",
+      "effective_domain_size": 21026,
+      "goshv": 20044,
+      "intersection_size": 8,
+      "intersections": [
+        [],
+        [],
+        [
+          "IMP",
+          "IEA"
+        ],
+        [],
+        [
+          "IMP"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IEA"
+        ],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [
+          "IMP"
+        ],
+        [
+          "IEA"
+        ],
+        [],
+        [
+          "IDA",
+          "IMP",
+          "ISS",
+          "IEA"
+        ]
+      ],
+      "name": "regulation of cell population proliferation",
+      "native": "GO:0042127",
+      "p_value": 0.01665803031458484,
+      "parents": [
+        "GO:0008283",
+        "GO:0050794"
+      ],
+      "precision": 0.5,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.004747774480712166,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 1685,
+      "source_order": 9890,
+      "group_id": 12
+    },
+    {
+      "description": "\"The process whose specific outcome is the progression of the brain over time, from its formation to the mature structure. Brain development begins with patterning events in the neural tube and ends with the mature structure that is the center of thought and emotion. The brain is responsible for the coordination and control of bodily activities and the interpretation of information from the senses (sight, hearing, smell, etc.).\" [GOC:dph, GOC:jid, GOC:tb, UBERON:0000955]",
+      "effective_domain_size": 21026,
+      "goshv": 13055,
+      "intersection_size": 6,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IEA"
+        ],
+        [
+          "ISS"
+        ],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [
+          "IEA"
+        ],
+        [],
+        [
+          "IEA"
+        ]
+      ],
+      "name": "brain development",
+      "native": "GO:0007420",
+      "p_value": 0.01703663458269977,
+      "parents": [
+        "GO:0007417",
+        "GO:0048513",
+        "GO:0060322"
+      ],
+      "precision": 0.375,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.007957559681697613,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 754,
+      "source_order": 2901,
+      "group_id": 9
+    },
+    {
+      "description": "\"Any process that modulates the frequency, rate or extent of the chemical reactions and pathways within a cell or an organism.\" [GOC:go_curators]",
+      "effective_domain_size": 21026,
+      "goshv": 15723,
+      "intersection_size": 14,
+      "intersections": [
+        [
+          "IDA",
+          "IMP",
+          "IBA",
+          "IEA"
+        ],
+        [],
+        [
+          "IMP",
+          "IBA",
+          "TAS"
+        ],
+        [
+          "NAS"
+        ],
+        [
+          "IMP",
+          "NAS"
+        ],
+        [
+          "ISS",
+          "IC",
+          "IEA"
+        ],
+        [
+          "ISS",
+          "IEA"
+        ],
+        [
+          "IMP",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "ISS"
+        ],
+        [
+          "IMP",
+          "IBA"
+        ],
+        [
+          "IMP"
+        ],
+        [
+          "IBA",
+          "NAS",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "ISS",
+          "IBA",
+          "IEA"
+        ],
+        [],
+        [
+          "IDA",
+          "IMP",
+          "IGI",
+          "ISS",
+          "IBA",
+          "NAS",
+          "IEA"
+        ]
+      ],
+      "name": "regulation of metabolic process",
+      "native": "GO:0019222",
+      "p_value": 0.01725626899616563,
+      "parents": [
+        "GO:0008152",
+        "GO:0050794"
+      ],
+      "precision": 0.875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.001990049751243781,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 7035,
+      "source_order": 5569,
+      "group_id": 8
+    },
+    {
+      "description": "\"The biological process whose specific outcome is the progression of a head from an initial condition to its mature state. The head is the anterior-most division of the body.\" [GOC:dph]",
+      "effective_domain_size": 21026,
+      "goshv": 24479,
+      "intersection_size": 6,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IEA"
+        ],
+        [
+          "ISS"
+        ],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [
+          "IEA"
+        ],
+        [],
+        [
+          "IEA"
+        ]
+      ],
+      "name": "head development",
+      "native": "GO:0060322",
+      "p_value": 0.0249044331317993,
+      "parents": [
+        "GO:0048856"
+      ],
+      "precision": 0.375,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.007444168734491315,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 806,
+      "source_order": 14325,
+      "group_id": 9
+    },
+    {
+      "description": "Cellular senescence",
+      "effective_domain_size": 8484,
+      "goshv": 40508,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Cellular senescence",
+      "native": "KEGG:04218",
+      "p_value": 0.025050240765204748,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.01935483870967742,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 155,
+      "source_order": 295,
+      "group_id": 26
+    },
+    {
+      "description": "\"A process leading to the generation of a functional regulatory non-coding RNA.\" [GOC:mah, PMID:15196465, PMID:19239886]",
+      "effective_domain_size": 21026,
+      "goshv": 26296,
+      "intersection_size": 3,
+      "intersections": [
+        [
+          "IDA",
+          "IMP"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IEA"
+        ]
+      ],
+      "name": "regulatory ncRNA processing",
+      "native": "GO:0070918",
+      "p_value": 0.025514129560418024,
+      "parents": [
+        "GO:0006396",
+        "GO:0031047"
+      ],
+      "precision": 0.1875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.043478260869565216,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 69,
+      "source_order": 16142,
+      "group_id": 7
+    },
+    {
+      "description": "Hepatitis C",
+      "effective_domain_size": 8484,
+      "goshv": 40654,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Hepatitis C",
+      "native": "KEGG:05160",
+      "p_value": 0.02650035467352437,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.0189873417721519,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 158,
+      "source_order": 441,
+      "group_id": 27
+    },
+    {
+      "description": "Hepatocellular carcinoma",
+      "effective_domain_size": 8484,
+      "goshv": 40689,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Hepatocellular carcinoma",
+      "native": "KEGG:05225",
+      "p_value": 0.030629865294611987,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.018072289156626505,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 166,
+      "source_order": 476,
+      "group_id": 28
+    },
+    {
+      "description": "\"Any process that modulates the rate, frequency or extent of a process involved in starting transcription from an RNA polymerase II promoter.\" [GOC:dph, GOC:tb, GOC:txnOH]",
+      "effective_domain_size": 21026,
+      "goshv": 24423,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [
+          "IDA"
+        ]
+      ],
+      "name": "regulation of transcription initiation by RNA polymerase II",
+      "native": "GO:0060260",
+      "p_value": 0.031493957629354176,
+      "parents": [
+        "GO:0006357",
+        "GO:0006367",
+        "GO:2000142"
+      ],
+      "precision": 0.1875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.04054054054054054,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 74,
+      "source_order": 14269,
+      "group_id": 10
+    },
+    {
+      "description": "\"Binding to histone deacetylase.\" [GOC:jl]",
+      "effective_domain_size": 20246,
+      "goshv": 5153,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IPI"
+        ],
+        [
+          "IEA"
+        ],
+        [],
+        [
+          "IPI"
+        ]
+      ],
+      "name": "histone deacetylase binding",
+      "native": "GO:0042826",
+      "p_value": 0.03364120892556492,
+      "parents": [
+        "GO:0019899"
+      ],
+      "precision": 0.1875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.023622047244094488,
+      "significant": true,
+      "source": "GO:MF",
+      "term_size": 127,
+      "source_order": 5153,
+      "group_id": 1
+    },
+    {
+      "description": "Cellular Senescence",
+      "effective_domain_size": 11004,
+      "goshv": 41116,
+      "intersection_size": 4,
+      "intersections": [
+        [
+          "REAC"
+        ],
+        [],
+        [
+          "REAC"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "REAC"
+        ],
+        [],
+        [],
+        [
+          "REAC"
+        ]
+      ],
+      "name": "Cellular Senescence",
+      "native": "REAC:R-HSA-2559583",
+      "p_value": 0.034964727460835836,
+      "parents": [
+        "REAC:R-HSA-2262752"
+      ],
+      "precision": 0.26666666666666666,
+      "query": "query_1",
+      "query_size": 15,
+      "recall": 0.020618556701030927,
+      "significant": true,
+      "source": "REAC",
+      "term_size": 194,
+      "source_order": 333,
+      "group_id": 31
+    },
+    {
+      "description": "Thyroid cancer",
+      "effective_domain_size": 8484,
+      "goshv": 40680,
+      "intersection_size": 2,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Thyroid cancer",
+      "native": "KEGG:05216",
+      "p_value": 0.03532781979688711,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.2222222222222222,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.05405405405405406,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 37,
+      "source_order": 467,
+      "group_id": 29
+    },
+    {
+      "description": "\"The volume enclosed by the nuclear inner membrane.\" [GOC:mah, GOC:pz]",
+      "effective_domain_size": 22149,
+      "goshv": 37388,
+      "intersection_size": 11,
+      "intersections": [
+        [
+          "TAS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "nuclear lumen",
+      "native": "GO:0031981",
+      "p_value": 0.040261957524873826,
+      "parents": [
+        "GO:0005634",
+        "GO:0070013"
+      ],
+      "precision": 0.6875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0019855595667870036,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 5540,
+      "source_order": 1198,
+      "group_id": 2
+    },
+    {
+      "description": "\"An organelle lumen that is part of an intracellular organelle.\" [GOC:mah]",
+      "effective_domain_size": 22149,
+      "goshv": 38524,
+      "intersection_size": 12,
+      "intersections": [
+        [
+          "TAS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "intracellular organelle lumen",
+      "native": "GO:0070013",
+      "p_value": 0.040428222135303275,
+      "parents": [
+        "GO:0043229",
+        "GO:0043233"
+      ],
+      "precision": 0.75,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0017923823749066467,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 6695,
+      "source_order": 2334,
+      "group_id": 2
+    },
+    {
+      "description": "\"The internal volume enclosed by the membranes of a particular organelle; includes the volume enclosed by a single organelle membrane, e.g. endoplasmic reticulum lumen, or the volume enclosed by the innermost of the two lipid bilayers of an organelle envelope, e.g. nuclear lumen.\" [GOC:jl, GOC:mah]",
+      "effective_domain_size": 22149,
+      "goshv": 38037,
+      "intersection_size": 12,
+      "intersections": [
+        [
+          "TAS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "organelle lumen",
+      "native": "GO:0043233",
+      "p_value": 0.040428222135303275,
+      "parents": [
+        "GO:0031974",
+        "GO:0043226"
+      ],
+      "precision": 0.75,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0017923823749066467,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 6695,
+      "source_order": 1847,
+      "group_id": 2
+    },
+    {
+      "description": "\"The enclosed volume within a sealed membrane or between two sealed membranes. Encompasses the volume enclosed by the membranes of a particular organelle, e.g. endoplasmic reticulum lumen, or the space between the two lipid bilayers of a double membrane surrounding an organelle, e.g. nuclear envelope lumen.\" [GOC:add, GOC:mah]",
+      "effective_domain_size": 22149,
+      "goshv": 37383,
+      "intersection_size": 12,
+      "intersections": [
+        [
+          "TAS"
+        ],
+        [
+          "IDA"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "IDA",
+          "TAS"
+        ],
+        [
+          "TAS"
+        ],
+        [],
+        [
+          "IDA",
+          "TAS",
+          "IEA"
+        ]
+      ],
+      "name": "membrane-enclosed lumen",
+      "native": "GO:0031974",
+      "p_value": 0.040428222135303275,
+      "parents": [
+        "GO:0110165"
+      ],
+      "precision": 0.75,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0017923823749066467,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 6695,
+      "source_order": 1193,
+      "group_id": 2
+    },
+    {
+      "description": "\"A protein complex that catalyzes the deneddylation of proteins, including the cullin component of SCF ubiquitin E3 ligase; deneddylation increases the activity of cullin family ubiquitin ligases. The signalosome is involved in many regulatory process, including some which control development, in many species; also regulates photomorphogenesis in plants; in many species its subunits are highly similar to those of the proteasome.\" [PMID:11019806, PMID:12186635, PMID:14570571]",
+      "effective_domain_size": 22149,
+      "goshv": 36667,
+      "intersection_size": 2,
+      "intersections": [
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "IPI",
+          "ISS",
+          "IBA",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IPI",
+          "ISS",
+          "IBA",
+          "IEA"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "name": "COP9 signalosome",
+      "native": "GO:0008180",
+      "p_value": 0.04054778217075692,
+      "parents": [
+        "GO:0140513"
+      ],
+      "precision": 0.125,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.05714285714285714,
+      "significant": true,
+      "source": "GO:CC",
+      "term_size": 35,
+      "source_order": 477,
+      "group_id": 4
+    },
+    {
+      "description": "\"The process in which a relatively unspecialized cell acquires specialized features of a stem cell. A stem cell is a cell that retains the ability to divide and proliferate throughout life to provide progenitor cells that can differentiate into specialized cells.\" [CL:0000034, GOC:isa_complete]",
+      "effective_domain_size": 21026,
+      "goshv": 23091,
+      "intersection_size": 4,
+      "intersections": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "ISS"
+        ],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [
+          "IGI",
+          "IEA"
+        ],
+        [],
+        [
+          "IMP"
+        ]
+      ],
+      "name": "stem cell differentiation",
+      "native": "GO:0048863",
+      "p_value": 0.04072761826968954,
+      "parents": [
+        "GO:0030154"
+      ],
+      "precision": 0.25,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.0163265306122449,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 245,
+      "source_order": 12937,
+      "group_id": 6
+    },
+    {
+      "description": "\"The removal of a ubiquitin-like protein of the NEDD8 type from a protein.\" [GOC:krc]",
+      "effective_domain_size": 21026,
+      "goshv": 10249,
+      "intersection_size": 2,
+      "intersections": [
+        [],
+        [],
+        [],
+        [
+          "IDA",
+          "IEA"
+        ],
+        [
+          "IDA",
+          "IEA"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "name": "protein deneddylation",
+      "native": "GO:0000338",
+      "p_value": 0.041306017826141586,
+      "parents": [
+        "GO:0070646"
+      ],
+      "precision": 0.125,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.18181818181818182,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 11,
+      "source_order": 95,
+      "group_id": 13
+    },
+    {
+      "description": "Regulation of NPAS4 gene expression",
+      "effective_domain_size": 11004,
+      "goshv": 42793,
+      "intersection_size": 2,
+      "intersections": [
+        [
+          "REAC"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "REAC"
+        ],
+        [],
+        []
+      ],
+      "name": "Regulation of NPAS4 gene expression",
+      "native": "REAC:R-HSA-9768759",
+      "p_value": 0.04271283961214699,
+      "parents": [
+        "REAC:R-HSA-9634815"
+      ],
+      "precision": 0.13333333333333333,
+      "query": "query_1",
+      "query_size": 15,
+      "recall": 0.15384615384615385,
+      "significant": true,
+      "source": "REAC",
+      "term_size": 13,
+      "source_order": 2010,
+      "group_id": 32
+    },
+    {
+      "description": "\"Any process that modulates the frequency, rate or extent of DNA-templated transcription initiation.\" [GOC:mah, GOC:txnOH]",
+      "effective_domain_size": 21026,
+      "goshv": 35205,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "TAS"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "IDA"
+        ],
+        [],
+        [
+          "IDA"
+        ]
+      ],
+      "name": "regulation of DNA-templated transcription initiation",
+      "native": "GO:2000142",
+      "p_value": 0.04286634849185277,
+      "parents": [
+        "GO:0006352",
+        "GO:0006355"
+      ],
+      "precision": 0.1875,
+      "query": "query_1",
+      "query_size": 16,
+      "recall": 0.036585365853658534,
+      "significant": true,
+      "source": "GO:BP",
+      "term_size": 82,
+      "source_order": 25051,
+      "group_id": 10
+    },
+    {
+      "description": "Kaposi sarcoma-associated herpesvirus infection",
+      "effective_domain_size": 8484,
+      "goshv": 40661,
+      "intersection_size": 3,
+      "intersections": [
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "KEGG"
+        ]
+      ],
+      "name": "Kaposi sarcoma-associated herpesvirus infection",
+      "native": "KEGG:05167",
+      "p_value": 0.04828905254576485,
+      "parents": [
+        "KEGG:00000"
+      ],
+      "precision": 0.3333333333333333,
+      "query": "query_1",
+      "query_size": 9,
+      "recall": 0.015463917525773196,
+      "significant": true,
+      "source": "KEGG",
+      "term_size": 194,
+      "source_order": 448,
+      "group_id": 30
+    }
+  ],
+  "meta": {
+    "query_metadata": {
+      "queries": {
+        "query_1": [
+          "AGO1",
+          "BAG1",
+          "CDK4",
+          "COPS6",
+          "COPS8",
+          "FABP3",
+          "GIT1",
+          "KRAS",
+          "METTL3",
+          "OTUB1",
+          "PNP",
+          "SOX6",
+          "SP1",
+          "SRF",
+          "TEX261",
+          "TP53"
+        ]
+      },
+      "organism": "hsapiens",
+      "all_results": false,
+      "ordered": false,
+      "no_iea": false,
+      "sources": [
+        "GO:MF",
+        "GO:CC",
+        "GO:BP",
+        "KEGG",
+        "REAC"
+      ],
+      "combined": false,
+      "aresolve": {},
+      "numeric_ns": "ENTREZGENE_ACC",
+      "domain_scope": "annotated",
+      "measure_underrepresentation": false,
+      "significance_threshold_method": "g_SCS",
+      "user_threshold": 0.05,
+      "no_evidences": false,
+      "highlight": null
+    },
+    "result_metadata": {
+      "GO:MF": {
+        "domain_size": 20246,
+        "number_of_terms": 10154,
+        "threshold": 0.000189
+      },
+      "GO:CC": {
+        "domain_size": 22149,
+        "number_of_terms": 4023,
+        "threshold": 0.000354
+      },
+      "GO:BP": {
+        "domain_size": 21026,
+        "number_of_terms": 26036,
+        "threshold": 3.6e-05
+      },
+      "KEGG": {
+        "domain_size": 8484,
+        "number_of_terms": 570,
+        "threshold": 0.000925
+      },
+      "REAC": {
+        "domain_size": 11004,
+        "number_of_terms": 2770,
+        "threshold": 0.000157
+      }
+    },
+    "genes_metadata": {
+      "failed": [],
+      "ambiguous": {},
+      "duplicates": [],
+      "query": {
+        "query_1": {
+          "mapping": {
+            "AGO1": [
+              "ENSG00000092847"
+            ],
+            "BAG1": [
+              "ENSG00000107262"
+            ],
+            "CDK4": [
+              "ENSG00000135446"
+            ],
+            "COPS6": [
+              "ENSG00000168090"
+            ],
+            "COPS8": [
+              "ENSG00000198612"
+            ],
+            "FABP3": [
+              "ENSG00000121769"
+            ],
+            "GIT1": [
+              "ENSG00000108262"
+            ],
+            "KRAS": [
+              "ENSG00000133703"
+            ],
+            "METTL3": [
+              "ENSG00000165819"
+            ],
+            "OTUB1": [
+              "ENSG00000167770"
+            ],
+            "PNP": [
+              "ENSG00000198805"
+            ],
+            "SOX6": [
+              "ENSG00000110693"
+            ],
+            "SP1": [
+              "ENSG00000185591"
+            ],
+            "SRF": [
+              "ENSG00000112658"
+            ],
+            "TEX261": [
+              "ENSG00000144043"
+            ],
+            "TP53": [
+              "ENSG00000141510"
+            ]
+          },
+          "ensgs": [
+            "ENSG00000092847",
+            "ENSG00000107262",
+            "ENSG00000135446",
+            "ENSG00000168090",
+            "ENSG00000198612",
+            "ENSG00000121769",
+            "ENSG00000108262",
+            "ENSG00000133703",
+            "ENSG00000165819",
+            "ENSG00000167770",
+            "ENSG00000198805",
+            "ENSG00000110693",
+            "ENSG00000185591",
+            "ENSG00000112658",
+            "ENSG00000144043",
+            "ENSG00000141510"
+          ]
+        }
+      }
+    },
+    "timestamp": "2025-12-31T09:26:53.720111+00:00",
+    "version": "e113_eg59_p19_f6a03c19"
+  }
+}

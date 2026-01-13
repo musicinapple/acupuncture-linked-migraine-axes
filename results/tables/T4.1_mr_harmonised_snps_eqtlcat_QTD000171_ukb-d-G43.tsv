@@ -1,0 +1,2 @@
+gene_symbol	exposure_id	exposure_trait	rsid	bx	sebx	by	seby	effect_allele_exposure	other_allele_exposure	effect_allele_outcome_aligned	other_allele_outcome_aligned	eaf_exposure	eaf_outcome	f_stat	pval_exposure	pval_outcome
+SLC67A1	eqtlcat-QTD000171-ENSG00000110628	eQTL Catalogue GTEx QTD000171 (brain (cortex)) N=205	rs1182338	-0.804412	0.0928877	1.78428e-4	1.907e-4	G	C	C	G	0.160976	0.841656	74.99644243640172	2.01521e-15	0.349455

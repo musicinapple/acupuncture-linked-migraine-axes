@@ -1,0 +1,5 @@
+gene_symbol	exposure_id	exposure_trait	rsid	bx	sebx	by	seby	effect_allele_exposure	other_allele_exposure	effect_allele_outcome_aligned	other_allele_outcome_aligned	eaf_exposure	eaf_outcome	f_stat	pval_exposure	pval_outcome
+ABHD1	eqtlcat-QTD000286-ENSG00000143994	eQTL Catalogue GTEx QTD000286 (tibial nerve) N=532	rs12467319	0.212133	0.0336724	-0.0204	0.0176	C	T	C	T	0.380639	0.3384	39.688832524236204	6.3778e-10	0.2459
+SLC67A1	eqtlcat-QTD000286-ENSG00000110628	eQTL Catalogue GTEx QTD000286 (tibial nerve) N=532	rs1182338	-0.893015	0.0670352	-0.001	0.0216	G	C	C	G	0.141917	0.8201	177.46458128809658	5.1239e-35	0.9635
+TMEM176B	eqtlcat-QTD000286-ENSG00000106565	eQTL Catalogue GTEx QTD000286 (tibial nerve) N=532	rs115946508	-0.346311	0.0626034	-0.0117	0.0307	A	C	A	C	0.0996241	0.08	30.60107842791758	5.04066e-8	0.7035
+TPSAB1	eqtlcat-QTD000286-ENSG00000172236	eQTL Catalogue GTEx QTD000286 (tibial nerve) N=532	rs7198879	-0.393613	0.0557052	-6e-4	0.0192	A	C	A	C	0.279135	0.7477	49.928370409743756	5.18325e-12	0.9769

@@ -1,0 +1,3 @@
+gene_symbol	exposure_id	exposure_trait	rsid	bx	sebx	by	seby	effect_allele_exposure	other_allele_exposure	effect_allele_outcome_aligned	other_allele_outcome_aligned	eaf_exposure	eaf_outcome	f_stat	pval_exposure	pval_outcome
+SLC67A1	eqtlcat-QTD000166-ENSG00000110628	eQTL Catalogue GTEx QTD000166 (brain (cerebellum)) N=209	rs1182338	-0.429874	0.0945967	1.78428e-4	1.907e-4	G	C	C	G	0.15311	0.841656	20.650491106622685	9.67968e-6	0.349455
+TMEM176B	eqtlcat-QTD000166-ENSG00000106565	eQTL Catalogue GTEx QTD000166 (brain (cerebellum)) N=209	rs1108578	0.415624	0.0735219	-3.79203e-5	1.80089e-4	T	G	T	G	0.184211	0.176673	31.95713164979775	5.5707e-8	0.833227

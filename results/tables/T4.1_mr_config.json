@@ -1,0 +1,37 @@
+{
+  "created_at_utc": "2025-12-23T10:06:21Z",
+  "script": "scripts/04_mr_causality/01_two_sample_mr_opengwas.R",
+  "inputs": {
+    "genes": "results/tables/T3.3_human_intersection_genes.csv",
+    "outcome_id": "ukb-d-G43",
+    "outcome_trait_trial": "Diagnoses - main ICD10: G43 Migraine"
+  },
+  "opengwas": {
+    "base": "https://api.opengwas.io/api",
+    "token_fingerprint": "eyJh...8d1Q (len=550)",
+    "eqtl_source_pattern": "eQTLGen",
+    "eqtl_mapping": {},
+    "symbol_to_ensembl": "data/processed/human_id_to_symbol.tsv",
+    "eqtl_id_prefix": "eqtl-a-"
+  },
+  "parameters": {
+    "pval_threshold": 1e-05,
+    "clump_r2": 0.001,
+    "clump_kb": 10000,
+    "clump_pop": "EUR",
+    "max_instruments_per_gene": 50,
+    "proxies": 0,
+    "proxy_r2": 0.8,
+    "maf_ambiguous": 0.42,
+    "f_stat_min": 10,
+    "scatter_top_n": 9,
+    "seed": 42
+  },
+  "outputs": {
+    "mapping": "results/tables/T4.1_eqtl_mapping_used.tsv",
+    "snps": "results/tables/T4.1_mr_harmonised_snps.tsv",
+    "results": "results/tables/T4.1_mr_gene_level_results.csv",
+    "forest": "figures/raw_plots/Fig5A_MR_forest.pdf",
+    "scatter": "figures/raw_plots/Fig5B_MR_scatter.pdf"
+  }
+}

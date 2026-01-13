@@ -1,0 +1,30 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+renv/local/
+
+# Data and Results (encouraging reproduction via scripts)
+data/raw/
+data/processed/
+results/rdata/
+*.log
+
+# Sensitive environment files
+.env
+.env.local

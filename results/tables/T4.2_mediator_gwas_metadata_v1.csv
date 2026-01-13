@@ -1,0 +1,8 @@
+role,label,id,trait,population,sample_size,ncase,ncontrol,year,pmid,author,group_name
+exposure,CRP,ebi-a-GCST90029070,C-reactive protein levels,European,575531,,,2022,35459240,Said S,public
+exposure,IL6,ebi-a-GCST90012005,Interleukin-6 levels,European,21758,,,2020,33067605,Folkersen L,public
+exposure,TNFR1,ebi-a-GCST90012015,Tumor necrosis factor receptor 1 levels,European,21758,,,2020,33067605,Folkersen L,public
+exposure,CORTISOL,ieu-a-1012,Plasma cortisol,European,12597,,,2014,25010111,Bolton JL,public
+exposure,HRV_RMSSD,ebi-a-GCST004733,Heart rate variability traits (RMSSD),European,26523,,,2017,28613276,Nolte IM,public
+outcome,MIGRAINE_META,ebi-a-GCST90038646,Migraine,NA,484598,13971,470627,2021,33959723,Dönertaş HM,public
+outcome,MIGRAINE_FINNGEN,finn-b-G6_MIGRAINE,Migraine,European,,8547,176107,2021,,NA,public

@@ -1,0 +1,97 @@
+{
+  "created_at": "2025-12-24T10:44:20.538516+00:00",
+  "gwasinfo_snapshot": {
+    "path": "data/raw/opengwas/gwasinfo.json",
+    "n_total_datasets": 50055,
+    "n_eqtl_datasets": 19935
+  },
+  "eqtl_id_prefix_counts": {
+    "eqtl-a": 19935
+  },
+  "keyword_counts_in_eqtl_metadata": {
+    "brain": 0,
+    "cortex": 0,
+    "cerebell": 0,
+    "hippocampus": 0,
+    "amygdala": 0,
+    "putamen": 0,
+    "caudate": 0,
+    "hypothalamus": 0,
+    "substantia": 0,
+    "accumbens": 0,
+    "gtex": 0,
+    "eqtlgen": 0
+  },
+  "top_eqtl_sources_by_count": [
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 31684,
+      "population": "European",
+      "n_exposures": 5516
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 31470,
+      "population": "European",
+      "n_exposures": 2037
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 5502,
+      "population": "European",
+      "n_exposures": 1763
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 14263,
+      "population": "European",
+      "n_exposures": 880
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 26609,
+      "population": "European",
+      "n_exposures": 673
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 9188,
+      "population": "European",
+      "n_exposures": 627
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 3831,
+      "population": "European",
+      "n_exposures": 603
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 31644,
+      "population": "European",
+      "n_exposures": 455
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 4339,
+      "population": "European",
+      "n_exposures": 336
+    },
+    {
+      "author": "Vosa U",
+      "year": 2018,
+      "sample_size": 4994,
+      "population": "European",
+      "n_exposures": 325
+    }
+  ]
+}

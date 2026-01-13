@@ -1,0 +1,45 @@
+{
+  "created_at_utc": "2025-12-24T14:28:38Z",
+  "script": "scripts/04_mr_causality/01_two_sample_mr_opengwas.R",
+  "inputs": {
+    "genes": "results/tables/T4.2_mediator_list_v1.csv",
+    "outcome_id": "finn-b-G6_MIGRAINE",
+    "outcome_trait_trial": null,
+    "outcome_trait_gwasinfo": "Migraine",
+    "outcome_trait_verified": "Migraine",
+    "outcome_trait_source": "gwasinfo"
+  },
+  "exposure": {
+    "eqtl_mode": "mapping",
+    "eqtl_catalogue": {}
+  },
+  "opengwas": {
+    "base": "https://api.opengwas.io/api",
+    "token_fingerprint": "eyJh...8d1Q (len=550)",
+    "eqtl_source_pattern": "eQTLGen",
+    "eqtl_mapping": "results/tables/T4.2_mediator_exposures_v1.tsv",
+    "symbol_to_ensembl": "data/processed/human_id_to_symbol.tsv",
+    "eqtl_id_prefix": "eqtl-a-"
+  },
+  "parameters": {
+    "pval_threshold": 5e-08,
+    "clump_r2": 0.001,
+    "clump_kb": 10000,
+    "clump_pop": "EUR",
+    "max_instruments_per_gene": 200,
+    "proxies": 1,
+    "proxy_r2": 0.8,
+    "maf_ambiguous": 0.42,
+    "f_stat_min": 10,
+    "scatter_top_n": 9,
+    "seed": 42
+  },
+  "outputs": {
+    "mapping": "results/tables/T4.2_mediator_exposures_used_v1.tsv",
+    "iv_coverage": "results/tables/T4.2_iv_coverage_finn-b-G6_MIGRAINE.tsv",
+    "snps": "results/tables/T4.2_mr_mediator_harmonised_snps_finn-b-G6_MIGRAINE.tsv",
+    "results": "results/tables/T4.2_mr_mediator_results_finn-b-G6_MIGRAINE.csv",
+    "forest": "figures/raw_plots/Fig5C_mediator_MR_forest_finn-b-G6_MIGRAINE.pdf",
+    "scatter": "figures/raw_plots/Fig5D_mediator_MR_scatter_finn-b-G6_MIGRAINE.pdf"
+  }
+}

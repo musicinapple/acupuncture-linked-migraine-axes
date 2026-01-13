@@ -1,0 +1,14 @@
+# Minimal Python requirements for this repo (scripts/).
+# Python: 3.9.x (see `python3 -V`)
+biopython==1.85
+matplotlib==3.9.4
+mygene==3.2.2
+networkx==3.2.1
+neuroCombat==0.2.12
+numpy==2.0.2
+pandas==2.3.2
+pillow==11.3.0
+python-docx==1.2.0
+requests==2.32.5
+scikit-learn==1.6.1
+scipy==1.13.1

@@ -1,0 +1,24 @@
+{
+  "created_at": "2025-12-24T08:12:37Z",
+  "inputs": {
+    "fastq_dir": "data/raw/ena/PRJEB40032/fastq",
+    "kallisto_index": "data/raw/reference/gencode/v45/kallisto_gencode_v45.idx",
+    "manifest": "data/processed/prjeb40032_runlist_labeled.tsv",
+    "transcripts_fasta": "data/raw/reference/gencode/v45/gencode.v45.transcripts.fa.gz"
+  },
+  "notes": [
+    "Single-end kallisto quant requires fragment length/SD; defaults are assumptions unless provided by the study.",
+    "Expression matrix values are log2(TPM+1) aggregated from transcript-level TPM to gene_symbol using GENCODE transcript headers."
+  ],
+  "outputs": {
+    "expression_matrix": "data/processed/prjeb40032_expression_matrix_all42.tsv",
+    "kallisto_outdir": "results/kallisto/PRJEB40032",
+    "sample_metadata": "data/processed/prjeb40032_sample_metadata_all42.tsv"
+  },
+  "params": {
+    "fragment_length": 200.0,
+    "fragment_sd": 20.0,
+    "resume": true,
+    "threads": 8
+  }
+}

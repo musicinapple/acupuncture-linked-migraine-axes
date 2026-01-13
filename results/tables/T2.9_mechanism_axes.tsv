@@ -1,0 +1,3 @@
+mirna	target_gene	n_records	pmids	support_types	experiments	target_in_universe	target_in_disease_set	target_logFC	target_pvalue	target_fdr
+hsa-miR-31-5p	NAT8L	1	35920180.0	Functional MTI	Luciferase reporter assay//Western blotting//qRT-PCR//Immunoprecipitaion (IP)//Immunofluorescence	True	True	0.1347751335790399	0.0352291894459581	1.0
+hsa-miR-31-5p	ITGA5	10	19524507.0 // 26729197.0 // 27050274.0	Functional MTI // Non-Functional MTI	Luciferase reporter assay // Luciferase reporter assay//qRT-PCR//Western blot	True	True	-0.1241596995300481	0.0436007317213891	1.0

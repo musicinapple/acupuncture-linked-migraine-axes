@@ -1,0 +1,2 @@
+gene_symbol,outcome_id,method,nsnp,beta,se,pval,or,ci_lower,ci_upper,q,q_pval,egger_intercept,egger_intercept_pval,exposure_id,exposure_trait
+SLC67A1,ukb-d-G43,Wald ratio,1,-2.218117084280195e-4,2.3844720748978924e-4,0.3522499224390914,0.9997782128899702,0.9993110691867758,1.0002455749668484,NA,NA,NA,NA,eqtlcat-QTD000171-ENSG00000110628,eQTL Catalogue GTEx QTD000171 (brain (cortex)) N=205

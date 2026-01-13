@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-01-12T04:03:36Z",
+  "dataset": {
+    "expression_matrix": "data/processed/validation_PRJEB40032_expression_matrix.tsv",
+    "metadata": "data/processed/validation_PRJEB40032_sample_metadata.tsv"
+  },
+  "deg_directions": {
+    "deg_gene_col": "gene_symbol",
+    "deg_logfc_col": "logFC",
+    "deg_table": null
+  },
+  "environment": {
+    "os": "macOS-26.0.1-arm64-arm-64bit-Mach-O",
+    "python": "Python 3.9.6"
+  },
+  "method": "direction-aware per-gene z-score; sample score = mean(sign * zscore_gene)",
+  "note": "AUC is computed using the pre-defined score direction (case-label and sign definition). If AUC<0.5, the signature separates classes in the opposite direction; AUC for the inverted score is provided for transparency.",
+  "results": {
+    "auc": 0.48333333333333334,
+    "auc_ci_95": [
+      0.2791666666666667,
+      0.6875
+    ],
+    "auc_inverted_score": 0.5166666666666667,
+    "genes_missing": [
+      "LOC124908237",
+      "SLC67A1"
+    ],
+    "genes_used": [
+      "ATP2C2",
+      "CBR3-AS1",
+      "CDC42BPA",
+      "CISH",
+      "CIT",
+      "CNTNAP2",
+      "CYP26B1",
+      "DEFA3",
+      "DPYSL4",
+      "FADS2",
+      "FAM86FP",
+      "FANK1",
+      "HGD",
+      "IGSF9B",
+      "IMMP2L",
+      "LAMP5",
+      "LINC02432",
+      "LINC02772",
+      "OLIG1",
+      "PLEKHN1",
+      "PRDX1P1",
+      "PRSS21",
+      "SAMD4A-AS1",
+      "SCARNA17",
+      "SDK2",
+      "SIAH2",
+      "SLC2A1-DT",
+      "THBS1",
+      "TNNT3",
+      "TRGV5"
+    ],
+    "n_cases": 20,
+    "n_controls": 12,
+    "n_genes_used": 30,
+    "n_total": 32
+  },
+  "signature": {
+    "file": "results/tables/T3.3_human_intersection_genes.csv",
+    "n_genes": 32
+  }
+}

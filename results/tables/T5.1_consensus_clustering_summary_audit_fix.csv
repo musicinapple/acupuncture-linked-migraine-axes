@@ -1,0 +1,4 @@
+k,auc,delta_auc,selected_k,n_samples,n_genes,gene_list_path,expr_matrix_path,metadata_path,seed,reps,p_item,p_feature
+2,0.5110344827586208,NA,FALSE,30,24,results/tables/T3.3_human_intersection_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,50,0.8,1
+3,0.6489885057471264,0.13795402298850556,TRUE,30,24,results/tables/T3.3_human_intersection_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,50,0.8,1
+4,0.7192643678160923,0.07027586206896586,FALSE,30,24,results/tables/T3.3_human_intersection_genes.csv,data/processed/prjeb40032_expression_matrix_all42.tsv,data/processed/prjeb40032_sample_metadata_all42.tsv,42,50,0.8,1
