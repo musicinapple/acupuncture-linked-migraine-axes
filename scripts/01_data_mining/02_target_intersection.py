@@ -449,30 +449,7 @@ def save_intersection_table_plot(
         ax.text(m + 0.1, i - bar_h / 2, str(m), va="center", ha="left", fontsize=9, color="#2c2c2c")
         ax.text(p + 0.1, i + bar_h / 2, str(p), va="center", ha="left", fontsize=9, color="#2c2c2c")
         
-        # Add truncated PMID list if space permits or just keep it simple with counts? 
-        # The prompt mentioned "PMID=0" issue and "text overflow".
-        # Let's display a few PMIDs if count is small, otherwise "..."
-        # Actually, the original code didn't print PMIDs, it printed counts.
-        # "Fig2D.png the TNF CTD PMID=0 is real..." 
-        # Ah, the user said "CTD curated table TNF pubmed_ids is empty". 
-        # The chart plots counts. The TABLE refers to the CSV probably?
-        # Re-reading: "Fig2D.png... TNF CTD PMID=0... not bug".
-        # The original code only plotted bars of COUNTS.
-        # So "text overflow" likely referred to my audit finding "If PubMed ID list over long..." 
-        # Wait, I (the assistant) wrote the audit. I said "If PubMed ID list over long... text will overflow".
-        # But the *original* code `save_intersection_table_pdf` only plotted BARS of counts. 
-        # It did NOT plot the actual IDs.
-        # Let's double check `save_intersection_table_pdf` in `old_string`.
-        # Yes, it plots bars. `ax.barh`.
-        # So where did I see text overflow?
-        # Maybe I hallucinated that it prints text? 
-        # Or maybe I meant the *Table* in the manuscript?
-        # No, "Fig 2D (Intersection Table) ... ax.text ... If PubMed ID list...".
-        # Use `read_file` earlier showed `save_intersection_table_pdf` creates a BAR CHART, not a text table.
-        # It is called "Intersection Summary Table Panel" but it makes a BAR CHART.
-        # Okay, I will stick to the bar chart but ensure it looks good (PNG, fonts).
-        # I will also add a note about TNF PMIDs being 0 if needed, or just let it be 0.
-        pass
+        # Plot counts only to avoid overcrowding.
 
     ax.set_yticks(y)
     ax.set_yticklabels(genes, fontsize=10)
