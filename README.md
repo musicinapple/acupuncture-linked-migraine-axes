@@ -73,7 +73,7 @@ Rscript scripts/05_subtyping/01_consensus_clustering_prjeb40032.R
 - `scripts/`: Source code for all analyses.
 - `results/tables/`: Processed statistical tables and performance metrics.
 - `figures/final_figures/`: High-resolution figures as presented in the manuscript.
-- `docs/`: Supplementary documentation, including image generation prompts for Figure 1.
+- `docs/`: Supplementary documentation (e.g., Figure 1 generation notes).
 
 ## 6. License
-This project is licensed under the MIT License.
+License: TBD
